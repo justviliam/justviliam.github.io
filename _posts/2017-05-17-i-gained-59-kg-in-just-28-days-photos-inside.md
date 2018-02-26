@@ -22,13 +22,13 @@ And train from time to time, haha.
 
 # Results short and simple
 
-![Benchasiri park 01](/images/2017/05/___benchasri01.jpg){:class="img-responsive"}
+![Benchasiri park 01](/images/2017/05/benchasiri01-final.jpg){:class="img-responsive"}
 
-![Benchasiri park 02](/images/2017/05/___benchasiri03.jpg){:class="img-responsive"}
+![Benchasiri park 02](/images/2017/05/benchasiri02-final.jpg){:class="img-responsive"}
 
-![Benchasiri park 03](/images/2017/05/___benchasiri03.jpg){:class="img-responsive"}
+![Benchasiri park 03](/images/2017/05/benchasiri03-final.jpg){:class="img-responsive"}
 
-![Final weight](/images/2017/05/__weight.jpg){:class="img-responsive"}
+![Final weight](/images/2017/05/weight-final.jpg){:class="img-responsive"}
 
 Starting weight: 68,6 kg
 
