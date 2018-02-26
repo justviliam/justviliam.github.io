@@ -11,17 +11,6 @@ categories:
   - exercise
   - nutrition
 ---
-[<img class="wp-image-62 size-medium alignleft" src="http://vili.am/wp-content/uploads/2017/05/DSC_0187_00003-200x300.jpg" alt="" width="200" height="300" />](http://vili.am/wp-content/uploads/2017/05/DSC_0187_00003.jpg)[<img class="wp-image-61 size-medium alignleft" src="http://vili.am/wp-content/uploads/2017/05/DSC_0183_00001_01-200x300.jpg" alt="" width="200" height="300" srcset="http://vili.am/wp-content/uploads/2017/05/DSC_0183_00001_01-200x300.jpg 200w, http://vili.am/wp-content/uploads/2017/05/DSC_0183_00001_01-768x1152.jpg 768w, http://vili.am/wp-content/uploads/2017/05/DSC_0183_00001_01-683x1024.jpg 683w" sizes="(max-width: 200px) 100vw, 200px" />](http://vili.am/wp-content/uploads/2017/05/DSC_0183_00001_01.jpg) [<img class="size-thumbnail wp-image-60 alignnone" src="http://vili.am/wp-content/uploads/2017/05/DSC_0172_00002_01-150x150.jpg" alt="" width="150" height="150" />](http://vili.am/wp-content/uploads/2017/05/DSC_0172_00002_01.jpg)
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-<span style="color: #ff0000;"><strong>Watch out! Cause these photos are super big, like 13 MB each.</strong></span>
-
-**<span style="color: #ff0000;">So do not open them on your mobile internet, please.</span>**
 
 It has been a funny period of my life.
   
@@ -33,7 +22,13 @@ And train from time to time, haha.
 
 # Results short and simple
 
-[<img class="alignnone wp-image-93 size-medium" src="http://vili.am/wp-content/uploads/2017/05/IMG_1051-300x225.jpg" alt="" width="300" height="225" srcset="http://vili.am/wp-content/uploads/2017/05/IMG_1051-300x225.jpg 300w, http://vili.am/wp-content/uploads/2017/05/IMG_1051-768x576.jpg 768w, http://vili.am/wp-content/uploads/2017/05/IMG_1051-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />](http://vili.am/wp-content/uploads/2017/05/IMG_1051.jpg)
+![Benchasiri park 01](/images/2017/05/___benchasri01.jpg){:class="img-responsive"}
+
+![Benchasiri park 02](/images/2017/05/___benchasiri03.jpg){:class="img-responsive"}
+
+![Benchasiri park 03](/images/2017/05/___benchasiri03.jpg){:class="img-responsive"}
+
+![Final weight](/images/2017/05/__weight.jpg){:class="img-responsive"}
 
 Starting weight: 68,6 kg
 
