@@ -28,7 +28,9 @@ Here are the <span style="color: #ff0000;"><strong>pictures</strong></span> of 
 
 ## Pictures
 
-![Skinny body](/images/2017/04/skinny-body01.jpg){:class="img-responsive"}
+![Skinny body 01](/images/2017/04/skinny-body01.jpg){:class="img-responsive"}
+
+![Skinny body 02](/images/2017/04/skinny-body02.jpg){:class="img-responsive"}
 
 ## Goals are super simple
 
