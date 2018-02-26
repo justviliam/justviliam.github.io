@@ -28,7 +28,7 @@ Here are the <span style="color: #ff0000;"><strong>pictures</strong></span> of 
 
 ## Pictures
 
-[<img class="wp-image-19 size-medium alignleft" src="http://vili.am/wp-content/uploads/2017/04/IMG_0758-e1492603353698-225x300.jpg" alt="" width="225" height="300" srcset="http://vili.am/wp-content/uploads/2017/04/IMG_0758-e1492603353698-225x300.jpg 225w, http://vili.am/wp-content/uploads/2017/04/IMG_0758-e1492603353698-768x1024.jpg 768w, http://vili.am/wp-content/uploads/2017/04/IMG_0758-e1492603353698.jpg 960w" sizes="(max-width: 225px) 100vw, 225px" />](http://vili.am/wp-content/uploads/2017/04/IMG_0758.jpg) [<img class="wp-image-20 size-medium alignleft" src="http://vili.am/wp-content/uploads/2017/04/IMG_0756-e1492603404185-225x300.jpg" alt="" width="225" height="300" srcset="http://vili.am/wp-content/uploads/2017/04/IMG_0756-e1492603404185-225x300.jpg 225w, http://vili.am/wp-content/uploads/2017/04/IMG_0756-e1492603404185-768x1024.jpg 768w" sizes="(max-width: 225px) 100vw, 225px" />](http://vili.am/wp-content/uploads/2017/04/IMG_0756.jpg)
+![Skinny body](/images/2017/04/skinny-body01.jpg){:class="img-responsive"}
 
 ## Goals are super simple
 
