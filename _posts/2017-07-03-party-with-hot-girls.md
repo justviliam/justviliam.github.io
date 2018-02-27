@@ -10,11 +10,9 @@ swp_pinterest_image_url:
   - ""
 swp_cache_timestamp:
   - "421675"
-image: /wp-content/uploads/2017/07/19620566_1618740301472092_7706362069762876732_o.jpg
 categories:
   - story of my life
 ---
-[<img class="aligncenter wp-image-213 size-medium_large" src="http://vili.am/wp-content/uploads/2017/07/19620566_1618740301472092_7706362069762876732_o-768x576.jpg" alt="" width="700" height="525" srcset="http://vili.am/wp-content/uploads/2017/07/19620566_1618740301472092_7706362069762876732_o-768x576.jpg 768w, http://vili.am/wp-content/uploads/2017/07/19620566_1618740301472092_7706362069762876732_o-300x225.jpg 300w, http://vili.am/wp-content/uploads/2017/07/19620566_1618740301472092_7706362069762876732_o-1024x768.jpg 1024w" sizes="(max-width: 700px) 100vw, 700px" />](http://vili.am/wp-content/uploads/2017/07/19620566_1618740301472092_7706362069762876732_o.jpg) [<img class="aligncenter wp-image-212 size-medium_large" src="http://vili.am/wp-content/uploads/2017/07/19575355_1618741868138602_2254586214740526692_o-768x576.jpg" alt="" width="700" height="525" srcset="http://vili.am/wp-content/uploads/2017/07/19575355_1618741868138602_2254586214740526692_o-768x576.jpg 768w, http://vili.am/wp-content/uploads/2017/07/19575355_1618741868138602_2254586214740526692_o-300x225.jpg 300w, http://vili.am/wp-content/uploads/2017/07/19575355_1618741868138602_2254586214740526692_o-1024x768.jpg 1024w" sizes="(max-width: 700px) 100vw, 700px" />](http://vili.am/wp-content/uploads/2017/07/19575355_1618741868138602_2254586214740526692_o.jpg) [<img class="aligncenter wp-image-211 size-medium_large" src="http://vili.am/wp-content/uploads/2017/07/19477330_1618738701472252_8702507005036555397_o-768x576.jpg" alt="" width="700" height="525" srcset="http://vili.am/wp-content/uploads/2017/07/19477330_1618738701472252_8702507005036555397_o-768x576.jpg 768w, http://vili.am/wp-content/uploads/2017/07/19477330_1618738701472252_8702507005036555397_o-300x225.jpg 300w, http://vili.am/wp-content/uploads/2017/07/19477330_1618738701472252_8702507005036555397_o-1024x768.jpg 1024w" sizes="(max-width: 700px) 100vw, 700px" />](http://vili.am/wp-content/uploads/2017/07/19477330_1618738701472252_8702507005036555397_o.jpg) [<img class="aligncenter wp-image-198 size-medium_large" src="http://vili.am/wp-content/uploads/2017/07/19441743_694122130797601_8460709932555445339_o-768x561.jpg" alt="" width="700" height="511" srcset="http://vili.am/wp-content/uploads/2017/07/19441743_694122130797601_8460709932555445339_o-768x561.jpg 768w, http://vili.am/wp-content/uploads/2017/07/19441743_694122130797601_8460709932555445339_o-300x219.jpg 300w, http://vili.am/wp-content/uploads/2017/07/19441743_694122130797601_8460709932555445339_o-1024x747.jpg 1024w, http://vili.am/wp-content/uploads/2017/07/19441743_694122130797601_8460709932555445339_o.jpg 1440w" sizes="(max-width: 700px) 100vw, 700px" />](http://vili.am/wp-content/uploads/2017/07/19441743_694122130797601_8460709932555445339_o.jpg)
 
 Do you know Dan Bilzerian? Well forget everything you know about thay guy. Cause he is an old fuck 😀
 
@@ -48,7 +46,15 @@ Man, maybe I should have been born in France. These guys are party animals, haha
 
 And giiiiiiirls, man. They are super friendly and you can speak with them in english :O I mean &#8211; not many people here can speak decent english. But they do!
 
-# Interesting people. Interesting people everywhere you look
+![The boss in the background](/images/2017/07/mojo001.jpg){:class="img-responsive"}
+
+![Having fun](/images/2017/07/mojo002.jpg){:class="img-responsive"}
+
+![These are actually working girls, I just met them outside](/images/2017/07/mojo003.jpg){:class="img-responsive"}
+
+![Trying to act cool](/images/2017/07/mojo004.jpg){:class="img-responsive"}
+
+# Interesting people everywhere you look
 
 I was talking to a ton of interesting people on a party.
 
