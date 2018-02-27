@@ -42,6 +42,18 @@ Price: is 320 EUR without energies. So it depends what kind of a person you are.
 
 # Here it comes, baby, the pictuuuuuuuuures (as authentic as it gets)
 
-[<img class="alignleft wp-image-154 size-thumbnail" src="http://vili.am/wp-content/uploads/2017/06/-20.4.17-13-56-27-e1496300493886-150x150.jpg" alt="view from pool's side" width="150" height="150" />](http://vili.am/wp-content/uploads/2017/06/-20.4.17-13-56-27-e1496300493886.jpg)
+![Small kitchen](/images/2017/05/flat001.jpg){:class="img-responsive"}
 
-[<img class="alignleft wp-image-153 size-thumbnail" src="http://vili.am/wp-content/uploads/2017/06/-20.4.17-13-52-26-1-e1496300479714-150x150.jpg" alt="enjoying a water in the pool" width="150" height="150" />](http://vili.am/wp-content/uploads/2017/06/-20.4.17-13-52-26-1-e1496300479714.jpg) [<img class="alignleft wp-image-152 size-thumbnail" src="http://vili.am/wp-content/uploads/2017/06/Фото-15.4.17-13-39-33-150x150.jpg" alt="panoramatic view from my room" width="150" height="150" />](http://vili.am/wp-content/uploads/2017/06/Фото-15.4.17-13-39-33.jpg)[<img class="alignleft wp-image-155 size-thumbnail" src="http://vili.am/wp-content/uploads/2017/06/Фото-30.5.17-12-25-34-150x150.jpg" alt="well, I live alone, what did you expect?" width="150" height="150" />](http://vili.am/wp-content/uploads/2017/06/Фото-30.5.17-12-25-34.jpg) [<img class="alignleft wp-image-150 size-thumbnail" src="http://vili.am/wp-content/uploads/2017/06/Фото-30.5.17-12-26-47-150x150.jpg" alt="heavy weight, 9 kg, baby!" width="150" height="150" />](http://vili.am/wp-content/uploads/2017/06/Фото-30.5.17-12-26-47.jpg)[<img class="alignleft size-thumbnail wp-image-172" src="http://vili.am/wp-content/uploads/2017/06/Фото-30.5.17-12-26-38-150x150.jpg" alt="" width="150" height="150" />](http://vili.am/wp-content/uploads/2017/06/Фото-30.5.17-12-26-38.jpg)[<img class="alignleft size-thumbnail wp-image-171" src="http://vili.am/wp-content/uploads/2017/06/Фото-30.5.17-12-26-26-150x150.jpg" alt="" width="150" height="150" />](http://vili.am/wp-content/uploads/2017/06/Фото-30.5.17-12-26-26.jpg)[<img class="alignleft size-thumbnail wp-image-170" src="http://vili.am/wp-content/uploads/2017/06/Фото-30.5.17-12-26-22-150x150.jpg" alt="" width="150" height="150" />](http://vili.am/wp-content/uploads/2017/06/Фото-30.5.17-12-26-22.jpg)[<img class="alignleft size-thumbnail wp-image-169" src="http://vili.am/wp-content/uploads/2017/06/Фото-30.5.17-12-26-08-150x150.jpg" alt="" width="150" height="150" />](http://vili.am/wp-content/uploads/2017/06/Фото-30.5.17-12-26-08.jpg)[<img class="alignleft size-thumbnail wp-image-168" src="http://vili.am/wp-content/uploads/2017/06/Фото-30.5.17-12-25-55-150x150.jpg" alt="" width="150" height="150" />](http://vili.am/wp-content/uploads/2017/06/Фото-30.5.17-12-25-55.jpg)
+![View of the apartment](/images/2017/05/flat002.jpg){:class="img-responsive"}
+
+![First half of the bathroom](/images/2017/05/flat003.jpg){:class="img-responsive"}
+
+![Second half of the bathroom](/images/2017/05/flat004.jpg){:class="img-responsive"}
+
+![There should be couch somewhere underneath](/images/2017/05/flat005.jpg){:class="img-responsive"}
+
+![TV which I have never used](/images/2017/05/flat006.jpg){:class="img-responsive"}
+
+![Bed for two, if you are humble](/images/2017/05/flat007.jpg){:class="img-responsive"}
+
+![Washing machine, which I used once in a while](/images/2017/05/flat008.jpg){:class="img-responsive"}
