@@ -10,7 +10,6 @@ swp_pinterest_image_url:
   - ""
 swp_cache_timestamp:
   - "421690"
-image: /wp-content/uploads/2017/12/baguette.jpg
 categories:
   - nutrition
 ---
@@ -26,6 +25,8 @@ I am going to restrict the amount of meat that I eat. It is as simple as that. M
 
 I just feel like it. There is no better explanation. When I feel something, I try to listen to my gut. After eating a shit ton of meat, I felt low energy.
 
+![Just look at this tasty baguette](/images/2017/12/baguette01.jpg){:class="img-responsive"}
+
 Yes, what I was doing was really excessive. I was eating meat twice a day. That actually speeded up the process. Also my decision.
 
 It is really simple. When I feel something is wrong, I try to find out what is the cause of it. I felt low energy and cause of it was probably my diet.
@@ -38,7 +39,7 @@ Hell no.
 
 Just look at this picture
 
-[<img class="alignleft size-medium wp-image-269" src="http://vili.am/wp-content/uploads/2017/12/blue-zones-300x169.jpg" alt="" width="300" height="169" srcset="http://vili.am/wp-content/uploads/2017/12/blue-zones-300x169.jpg 300w, http://vili.am/wp-content/uploads/2017/12/blue-zones.jpg 756w" sizes="(max-width: 300px) 100vw, 300px" />](http://vili.am/wp-content/uploads/2017/12/blue-zones.jpg)
+![Blue zones diet](/images/2017/12/blue-zones01.jpg){:class="img-responsive"}
 
 These are the areas where people live longer than average. I mean waaaaay longer. But you can find detail on the page: https://bluezones.com/
 
