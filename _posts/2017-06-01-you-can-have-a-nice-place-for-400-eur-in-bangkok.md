@@ -57,3 +57,9 @@ Price: is 320 EUR without energies. So it depends what kind of a person you are.
 ![Bed for two, if you are humble](/images/2017/05/flat007.jpg){:class="img-responsive"}
 
 ![Washing machine, which I used once in a while](/images/2017/05/flat008.jpg){:class="img-responsive"}
+
+![Panoramatic view from the window](/images/2017/06/panorama.jpg){:class="img-responsive"}
+
+![View from the pool area](/images/2017/06/pool01.jpg){:class="img-responsive"}
+
+![Inside the pool](/images/2017/06/pool02.jpg){:class="img-responsive"}
