@@ -10,13 +10,14 @@ swp_pinterest_image_url:
   - ""
 swp_cache_timestamp:
   - "421698"
-image: /wp-content/uploads/2017/12/nelson-mandela-quote.jpg
 categories:
   - self help
 ---
-How do you think you learned your native language? I think just by doing two things, which are completely crucial: listening and talking. Trial and error. That is it.
+Do you remember how did you learn your native language? I think just by doing two things, which are completely crucial: listening and talking. Trial and error. That is it.
 
 Now imagine how they wanted to teach us foreign languages back at school. I remember a lot of theory, lots of useless words, ton of writing and almost no speaking whatsoever. These tactics seem to be very inefficient.
+
+![Nelson Mandela quote](/images/2017/12/nelson-mandela-quote01.jpg){:class="img-responsive"}
 
 # Why you will not learn to speak a language at school
 
