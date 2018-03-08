@@ -10,7 +10,6 @@ swp_pinterest_image_url:
   - ""
 swp_cache_timestamp:
   - "421692"
-image: /wp-content/uploads/2018/01/benchasiri-park004.jpg
 categories:
   - exercise
   - travel
@@ -23,19 +22,11 @@ _Opening hours: 5 a.m. &#8211; 9 p.m._
 
 Location: very close to Phrom Pong BTS. I would say 3-4 minutes walking distance. The park is located on the left side of the street. There is a mall called Emporium, too. You will find it easily. Just follow people who are wearing sporting clothes.<figure id="attachment_378" style="max-width: 491px" class="wp-caption aligncenter">
 
-[<img class="wp-image-378 size-full" src="http://vili.am/wp-content/uploads/2018/01/directions.jpg" alt="Benchasiri park - directions" width="501" height="368" srcset="http://vili.am/wp-content/uploads/2018/01/directions.jpg 501w, http://vili.am/wp-content/uploads/2018/01/directions-300x220.jpg 300w" sizes="(max-width: 501px) 100vw, 501px" />](http://vili.am/wp-content/uploads/2018/01/directions.jpg)<figcaption class="wp-caption-text">Directions</figcaption></figure> 
+Just keep left and take the stairs
+![Phrom Pong BTS station](/images/2018/01/benchasiri-park001.jpg){:class="img-responsive"}
 
-<div id='gallery-1' class='gallery galleryid-319 gallery-columns-3 gallery-size-thumbnail'>
-  <figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='http://vili.am/wp-content/uploads/2018/01/benchasiri-park023.jpg'><img width="150" height="150" src="http://vili.am/wp-content/uploads/2018/01/benchasiri-park023-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="phrom pong bts" aria-describedby="gallery-1-354" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-1-354'> Just keep left and take the stairs </figcaption></figure><figure class='gallery-item'> 
-  
-  <div class='gallery-icon landscape'>
-    <a href='http://vili.am/wp-content/uploads/2018/01/benchasiri-park022.jpg'><img width="150" height="150" src="http://vili.am/wp-content/uploads/2018/01/benchasiri-park022-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="main entrance" aria-describedby="gallery-1-353" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-1-353'> This is the main entrance </figcaption></figure>
-</div>
+This is the main entrance
+![Benchasiri park main entrance](/images/2018/01/benchasiri-park019.jpg){:class="img-responsive"}
 
 Anthem time: 8 a.m. and 6 p.m. &#8211; the time, literally, stops during these parts of the day. EVERYBODY has to stand up and listen to national anthem. Afterwards some people bow, some do not. You do not have to do it, because I suppose that you are a _farang_ (foreigner), too.
 
