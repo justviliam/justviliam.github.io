@@ -4,13 +4,13 @@ title: MEAT is killing me
 date: 2017-12-10T05:56:47+00:00
 author: viliam
 layout: post
+img: plants.jpg
 guid: http://vili.am/?p=266
 permalink: /meat-is-killing-me/
 swp_pinterest_image_url:
   - ""
 swp_cache_timestamp:
   - "421690"
-  img: plants.jpg
 categories:
   - nutrition
 ---
