@@ -10,7 +10,7 @@ swp_pinterest_image_url:
   - ""
 swp_cache_timestamp:
   - "421679"
-image: /wp-content/uploads/2017/05/teaser.jpeg
+img: living.jpg
 categories:
   - travel
 ---
