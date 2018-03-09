@@ -10,6 +10,7 @@ swp_pinterest_image_url:
   - ""
 swp_cache_timestamp:
   - "421692"
+  img: benchasiri.jpg
 categories:
   - exercise
   - travel
