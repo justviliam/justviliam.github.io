@@ -6,6 +6,7 @@ author: viliam
 layout: post
 guid: http://vili.am/?p=245
 permalink: /37-hours-without-sleep-no-problem/
+img: sleep.jpg
 categories:
   - story of my life
 ---
