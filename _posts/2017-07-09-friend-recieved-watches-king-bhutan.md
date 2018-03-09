@@ -4,13 +4,13 @@ title: My friend recieved a gift from king of BHUTAN :O
 date: 2017-07-09T03:31:34+00:00
 author: viliam
 layout: post
+img: watches.jpg
 guid: http://vili.am/?p=225
 permalink: /friend-recieved-watches-king-bhutan/
 swp_pinterest_image_url:
   - ""
 swp_cache_timestamp:
   - "421679"
-  img: watches.jpg
 categories:
   - story of my life
   - travel
