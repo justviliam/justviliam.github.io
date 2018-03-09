@@ -52,7 +52,11 @@ Have a one minute conversation with a stranger in Vietnamese. I will definitely 
 
 Youtube channel called Learn Vietnamese with Annie
 
-https://www.youtube.com/user/AnnieVietnamese/videos?flow=grid&view=0&sort=da
+<blockquote class="wp-embedded-content" data-secret="j007nyy7s5">
+  <p>
+    <a href="https://www.youtube.com/user/AnnieVietnamese/videos?flow=grid&view=0&sort=da">Learn Vietnamese with Annie</a>
+  </p>
+</blockquote>
 
 Creator of this channel is native Vietnamese speaker and her english is good as well. So far, I have just seen few videos and I am surprised that she is sharing so much value for free. Thank you, Annie, for doing this.
 
