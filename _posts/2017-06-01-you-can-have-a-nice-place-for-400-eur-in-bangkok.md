@@ -6,7 +6,7 @@ author: viliam
 layout: post
 guid: http://vili.am/?p=144
 permalink: /you-can-have-a-nice-place-for-400-eur-in-bangkok/
-image: /wp-content/uploads/2017/06/-20.4.17-13-52-26-1-e1496300479714.jpg
+img: place.jpg
 categories:
   - travel
 ---
