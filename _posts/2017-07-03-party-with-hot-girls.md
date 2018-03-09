@@ -10,6 +10,7 @@ swp_pinterest_image_url:
   - ""
 swp_cache_timestamp:
   - "421675"
+  img: mojo.jpg
 categories:
   - story of my life
 ---
