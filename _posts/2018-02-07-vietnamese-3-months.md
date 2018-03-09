@@ -10,7 +10,7 @@ swp_pinterest_image_url:
   - ""
 swp_cache_timestamp:
   - "421714"
-image: vietnamese.jpg
+img: vietnamese.jpg
 categories:
   - languages
   - travel
