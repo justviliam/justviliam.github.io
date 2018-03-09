@@ -6,7 +6,7 @@ author: viliam
 layout: post
 guid: http://vili.am/?p=177
 permalink: /stop-giving-a-fuck/
-image: /wp-content/uploads/2017/06/sexiiii.png
+img: 0fucks.jpg
 categories:
   - self help
 ---
