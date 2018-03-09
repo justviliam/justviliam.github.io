@@ -4,13 +4,12 @@ title: 'Stop giving a fuck about other people&#8217;s opinions!'
 date: 2017-06-17T07:32:18+00:00
 author: viliam
 layout: post
+img: 0fucks.jpg
 guid: http://vili.am/?p=177
 permalink: /stop-giving-a-fuck/
-img: 0fucks.jpg
 categories:
   - self help
 ---
-[<img class="alignleft wp-image-184 size-medium_large" src="http://vili.am/wp-content/uploads/2017/06/sexiiii-768x1070.png" alt="" width="700" height="975" srcset="http://vili.am/wp-content/uploads/2017/06/sexiiii-768x1070.png 768w, http://vili.am/wp-content/uploads/2017/06/sexiiii-215x300.png 215w, http://vili.am/wp-content/uploads/2017/06/sexiiii-735x1024.png 735w, http://vili.am/wp-content/uploads/2017/06/sexiiii.png 994w" sizes="(max-width: 700px) 100vw, 700px" />](http://vili.am/wp-content/uploads/2017/06/sexiiii.png)
 
 Well, well, well.
 
