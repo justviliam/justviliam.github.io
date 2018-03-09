@@ -4,6 +4,7 @@ title: SKINNY body to BEAST body in 28 days
 date: 2017-04-19T16:16:00+00:00
 author: viliam
 layout: post
+img: skinny.jpg
 guid: http://www.vili.am/?p=4
 permalink: /skinny-body-to-beast-body-in-28-days/
 categories:
