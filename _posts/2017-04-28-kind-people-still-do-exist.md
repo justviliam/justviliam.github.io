@@ -4,6 +4,7 @@ title: Kind people still do EXIST :)
 date: 2017-04-28T07:15:59+00:00
 author: viliam
 layout: post
+img: nice.jpg
 guid: http://vili.am/?p=35
 permalink: /kind-people-still-do-exist/
 categories:
