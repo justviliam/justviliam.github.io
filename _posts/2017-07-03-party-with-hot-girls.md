@@ -4,13 +4,13 @@ title: This is what happens when French PLAYBOYs make a party with the HOT asian
 date: 2017-07-03T13:07:18+00:00
 author: viliam
 layout: post
+img: mojo.jpg
 guid: http://vili.am/?p=187
 permalink: /party-with-hot-girls/
 swp_pinterest_image_url:
   - ""
 swp_cache_timestamp:
   - "421675"
-img: mojo.jpg
 categories:
   - story of my life
 ---
