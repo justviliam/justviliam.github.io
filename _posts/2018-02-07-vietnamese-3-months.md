@@ -10,7 +10,7 @@ swp_pinterest_image_url:
   - ""
 swp_cache_timestamp:
   - "421714"
-image: /wp-content/uploads/2018/02/na-plazy.jpg
+image: vietnamese.jpg
 categories:
   - languages
   - travel
