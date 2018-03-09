@@ -4,13 +4,13 @@ title: How to deal with negative emotions
 date: 2017-07-26T13:05:39+00:00
 author: viliam
 layout: post
+img: negative.jpg
 guid: http://vili.am/?p=256
 permalink: /deal-negative-emotions/
 swp_pinterest_image_url:
   - ""
 swp_cache_timestamp:
   - "421714"
-  img: negative.jpg
 categories:
   - self help
 ---
