@@ -50,9 +50,9 @@ Have a one minute conversation with a stranger in Vietnamese. I will definitely 
 
 # Sources I am going to use
 
-Youtube channel called Learn Vietnamese with Annie (click on the picture to open the link)
+Youtube channel called Learn Vietnamese with Annie
 
-[<img class="alignleft wp-image-398 size-full" src="http://vili.am/wp-content/uploads/2018/02/Annie.jpg" alt="Learn Vietnamese with Annie" width="759" height="289" srcset="http://vili.am/wp-content/uploads/2018/02/Annie.jpg 759w, http://vili.am/wp-content/uploads/2018/02/Annie-300x114.jpg 300w" sizes="(max-width: 759px) 100vw, 759px" />](https://www.youtube.com/user/AnnieVietnamese/featured)
+https://www.youtube.com/user/AnnieVietnamese/videos?flow=grid&view=0&sort=da
 
 Creator of this channel is native Vietnamese speaker and her english is good as well. So far, I have just seen few videos and I am surprised that she is sharing so much value for free. Thank you, Annie, for doing this.
 
