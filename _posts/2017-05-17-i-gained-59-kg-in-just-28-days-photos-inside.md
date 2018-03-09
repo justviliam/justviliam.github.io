@@ -6,7 +6,7 @@ author: viliam
 layout: post
 guid: http://vili.am/?p=54
 permalink: /i-gained-59-kg-in-just-28-days-photos-inside/
-image: /wp-content/uploads/2017/05/DSC_0187_00003-e1495492071601.jpg
+img: challenge.jpg
 categories:
   - exercise
   - nutrition
