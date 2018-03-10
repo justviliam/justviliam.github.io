@@ -9,7 +9,7 @@
 title: Viliam
 email: just@vili.am
 description: > # this means to ignore newlines until "baseurl:"
-  Webjeda Cards is a Bootstrap based jekyll theme for portfolio, photography or any kind of blog.
+  Change yourself, change the world
   
   
   
@@ -41,9 +41,9 @@ disqus-shortname: justviliam
 facebook: http://facebook.com/justviliam
 
 #facebook like box
-fb-app-id: 549480635219583
-fb-page-url: https://www.facebook.com/webjeda/
-fb-page-title: webjeda
+fb-app-id: 1861898717394681
+fb-page-url: http://facebook.com/justviliam
+fb-page-title: Viliam
 
 # Sass style
 sass:
