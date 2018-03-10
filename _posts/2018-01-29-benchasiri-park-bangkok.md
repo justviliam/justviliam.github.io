@@ -6,10 +6,6 @@ author: viliam
 layout: post
 guid: http://vili.am/?p=319
 permalink: /benchasiri-park-bangkok/
-swp_pinterest_image_url:
-  - ""
-swp_cache_timestamp:
-  - "421692"
 img: benchasiri.jpg
 categories:
   - exercise
