@@ -1,6 +1,7 @@
 ---
 id: 177
 title: 'Stop giving a fuck about other people&#8217;s opinions!'
+excerpt: Face your fears and stop giving a fuck about other people opinions'.
 date: 2017-06-17T07:32:18+00:00
 author: viliam
 layout: post
