@@ -1,18 +1,15 @@
 ---
 id: 187
-title: This is what happens when French PLAYBOYs make a party with the HOT asian girls
+title: Party with HOT ASIAN girls and FRENCH PLAYBOYS
+excerpt: What an experience! I wanna go there again. Had a lot of fun with these guys. They definitely know how to party.
 date: 2017-07-03T13:07:18+00:00
 author: viliam
 layout: post
 img: mojo.jpg
 guid: http://vili.am/?p=187
 permalink: /party-with-hot-girls/
-swp_pinterest_image_url:
-  - ""
-swp_cache_timestamp:
-  - "421675"
 categories:
-  - story of my life
+  - travel
 ---
 
 Do you know Dan Bilzerian? Well forget everything you know about thay guy. Cause he is an old fuck 😀
