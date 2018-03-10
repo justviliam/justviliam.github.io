@@ -1,6 +1,7 @@
 ---
 id: 266
 title: MEAT is killing me
+excerpt: It is time to consider whether meat is really important...
 date: 2017-12-10T05:56:47+00:00
 author: viliam
 layout: post
