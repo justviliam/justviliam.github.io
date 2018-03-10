@@ -1,6 +1,7 @@
 ---
 id: 393
 title: 'Language challenge: learning Vietnamese in 3 months'
+excerpt: I want to be able to have a one minute conversation with a stranger in Vietnamese. Let's see if I can do it.
 date: 2018-02-07T15:08:08+00:00
 author: viliam
 layout: post
@@ -10,6 +11,7 @@ img: vietnamese.jpg
 categories:
   - languages
   - travel
+  - experiments
 ---
 I moved to Vietnam recently and I decided it would be a good idea to speak Vietnamese. I just want to get by with it.
 
