@@ -9,6 +9,9 @@ permalink: /bye-wordpress/
 categories:
   - web
 ---
+
+![Wordpress is very slow](/images/wpslow.jpg){:class="img-responsive"}
+
 Many of you, guys, probably visited my website just for few seconds. You realized that load time is just too high. And you left. Probably none of you is reading this article right now. Because competition is just one click away.
 
 The speed of my site was seriously pissing me off. So I started googling. After a while, I realized that I don't even need most of the features that Wordpress is offering. So I found a very promising alternative. Jekyll.
