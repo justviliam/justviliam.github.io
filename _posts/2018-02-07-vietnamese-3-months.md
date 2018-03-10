@@ -6,10 +6,6 @@ author: viliam
 layout: post
 guid: http://vili.am/?p=393
 permalink: /vietnamese-3-months/
-swp_pinterest_image_url:
-  - ""
-swp_cache_timestamp:
-  - "421714"
 img: vietnamese.jpg
 categories:
   - languages
