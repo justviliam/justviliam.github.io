@@ -1,6 +1,7 @@
 ---
 id: 292
 title: Learn foreign language FAST. Forget about grammar
+excerpt: Do you learn languages by EAR or by EYE?
 img: lang.jpg
 date: 2017-12-20T12:07:14+00:00
 author: viliam
@@ -8,7 +9,7 @@ layout: post
 guid: http://vili.am/?p=292
 permalink: /learn-foreign-language-fast/
 categories:
-  - self help
+  - languages
 ---
 Do you remember how did you learn your native language? I think just by doing two things, which are completely crucial: listening and talking. Trial and error. That is it.
 
