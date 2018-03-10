@@ -1,5 +1,6 @@
 ---
 title: Bye Wordpress
+excerpt: After few years of using Wordpress, I realized it is too slow for me. So I moved my blog to much faster solution, called Jekyll.
 date: 2018-03-10T17:44:00+00:00
 author: viliam
 layout: post
