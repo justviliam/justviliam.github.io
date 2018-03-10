@@ -4,13 +4,13 @@ title: Need relax in Bangkok? You should try Benchasiri park
 date: 2018-01-29T08:43:25+00:00
 author: viliam
 layout: post
-img: benchasiri.jpg
 guid: http://vili.am/?p=319
 permalink: /benchasiri-park-bangkok/
 swp_pinterest_image_url:
   - ""
 swp_cache_timestamp:
   - "421692"
+img: benchasiri.jpg
 categories:
   - exercise
   - travel
