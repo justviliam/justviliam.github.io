@@ -1,9 +1,9 @@
 ---
-title: Bye bye Wordpress
+title: Bye Wordpress
 date: 2018-03-10T17:44:00+00:00
 author: viliam
 layout: post
-img: skinny.jpg
+img: wp.jpg
 permalink: /bye-wordpress/
 categories:
   - web
