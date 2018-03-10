@@ -10,6 +10,7 @@ permalink: /you-can-have-a-nice-place-for-400-eur-in-bangkok/
 img: place.jpg
 categories:
   - travel
+  - living abroad
 ---
 Some of my friends told me that I should post more pictrues.
 
