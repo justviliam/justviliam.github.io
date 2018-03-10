@@ -1,7 +1,7 @@
 ---
 id: 4
 title: SKINNY body to BEAST body in 28 days
-description: I finally decided to gain the weight. I am an ectomorph, so it will be a huge challenge for my body and mind.
+excerpt: I finally decided to gain the weight. I am an ectomorph, so it will be a huge challenge for my body and mind.
 date: 2017-04-19T16:16:00+00:00
 author: viliam
 layout: post
