@@ -1,16 +1,12 @@
 ---
 id: 292
 title: Learn foreign language FAST. Forget about grammar
+img: lang.jpg
 date: 2017-12-20T12:07:14+00:00
 author: viliam
 layout: post
 guid: http://vili.am/?p=292
 permalink: /learn-foreign-language-fast/
-swp_pinterest_image_url:
-  - ""
-swp_cache_timestamp:
-  - "421698"
-  img: lang.jpg
 categories:
   - self help
 ---
