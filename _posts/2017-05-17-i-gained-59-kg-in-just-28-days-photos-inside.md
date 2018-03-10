@@ -1,7 +1,7 @@
 ---
 id: 54
 title: 'I gained 5,9 kg in just 28 days &#8212; PHOTOS inside'
-description: It was hell of a challenge. But I made it. Check out the results. They may surprise you.
+excerpt: It was hell of a challenge. But I made it. Check out the results. They may surprise you.
 date: 2017-05-17T15:28:37+00:00
 author: viliam
 layout: post
