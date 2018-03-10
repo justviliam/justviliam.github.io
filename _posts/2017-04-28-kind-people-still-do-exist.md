@@ -9,7 +9,7 @@ img: nice.jpg
 guid: http://vili.am/?p=35
 permalink: /kind-people-still-do-exist/
 categories:
-  - story of my life
+  - travel
 ---
 Long story short: I lost my passport here in Bangkok. I had to go to police station (not important right now) and then I arranged a meeting in Slovak embassy in Bangkok.
 
