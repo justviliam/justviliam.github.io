@@ -41,9 +41,9 @@ disqus-shortname: justviliam
 facebook: http://facebook.com/justviliam
 
 #facebook like box
-fb-app-id: 1861898717394681
-fb-page-url: http://facebook.com/justviliam
-fb-page-title: Viliam
+#fb-app-id: 1861898717394681
+#fb-page-url: http://facebook.com/justviliam
+#fb-page-title: Viliam
 
 # Sass style
 sass:
