@@ -35,7 +35,7 @@ paginate_path: /page:num/
 analytics: UA-6810782-25
 
 # Comments
-disqus-shortname: justviliam
+disqus-shortname: http-vili-am
 
 #social
 facebook: http://facebook.com/justviliam
