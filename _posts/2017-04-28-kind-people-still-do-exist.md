@@ -1,6 +1,7 @@
 ---
 id: 35
 title: Kind people still do EXIST :)
+description: Story about a lady who gave me 32 EUR as a gift. She saved my life. Wow! I am so thankful. Kind people still live amongst us.
 date: 2017-04-28T07:15:59+00:00
 author: viliam
 layout: post
