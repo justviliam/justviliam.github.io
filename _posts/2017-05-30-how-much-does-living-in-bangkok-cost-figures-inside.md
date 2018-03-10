@@ -14,6 +14,7 @@ swp_cache_timestamp:
 img: living.jpg
 categories:
   - travel
+  - living abroad
 ---
 It has been more than a month here already.
   
