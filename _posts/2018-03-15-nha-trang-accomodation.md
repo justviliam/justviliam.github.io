@@ -32,6 +32,7 @@ are not made for walking at all. You always have to step out of the pavement, be
 
 ![Flat 01](/images/flat01.jpg){:class="img-responsive"}
 
+
 ![Flat 02](/images/flat02.jpg){:class="img-responsive"}
 
 ![Flat 03](/images/flat03.jpg){:class="img-responsive"}
