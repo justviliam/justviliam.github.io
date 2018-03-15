@@ -70,3 +70,7 @@ prices are also very reasonable. I simply love Vietnamese cuisine.
 
 Supermarket is about 1 km away. Then Vietnamese market is about 1 km away, too. And beach is about 2 km from here. The places
 that I usually go to eat are either in beach area, or close to market. And it is pretty easy to get there on my hipster bike.
+
+The bonus is, that land owner is very nice. Every time we meet, he asks me, whether everything is ok. I love his attitude. I guess, I got lucky. But in case you are interested in living here, I can give you a contact. Just hit me up in the comments.
+
+If you feel frisky, there are a lot of coffee shops, local food and even places with live music around. Also, it is not problem to recycle here. I was stunned when I heard this. Nha Trang is changing for better. Love it.
