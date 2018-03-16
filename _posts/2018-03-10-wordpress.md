@@ -5,7 +5,7 @@ date: 2018-03-10T17:44:00+00:00
 author: viliam
 layout: post
 img: wp.jpg
-permalink: /leaving-slov-wordpress/
+permalink: /leaving-slow-wordpress/
 categories:
   - web
 ---
