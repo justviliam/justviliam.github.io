@@ -1,5 +1,5 @@
 ---
-title: 85 % of people HATE their jobs. It is time for a CHANGE
+title: 85 % of people HATE their jobs. Don't be one of them
 excerpt: Everybody should be doing something, that they love. And YOU are not an exception. Love what you do, do what you love.
 date: 2018-03-21T17:44:00+00:00
 author: viliam
