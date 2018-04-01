@@ -1,17 +1,19 @@
 ---
 published: false
-title: Leaving slow Wordpress
-excerpt: After few years of using Wordpress, I realized it is too slow for me. So I moved my blog to much faster solution, called Jekyll.
-date: 2018-04-01T17:44:00+00:00
+title: Life is a game, so let's play
+excerpt: You've got a great opportunity to play the most exciting game in the world, called LIFE. And you can make the rules yourself.
+date: 2018-04-01T21:58:00+00:00
 author: viliam
 layout: post
 img: wp.jpg
-permalink: /leaving-slow-wordpress/
+permalink: /life-is-game/
 categories:
   - life
 ---
 
 ![Wordpress is very slow](/images/wpslow.jpg){:class="img-responsive"}
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/2ET8hsW6xAk" frameborder="0"> </iframe>
 
 Life is a game. So let's play.
 
