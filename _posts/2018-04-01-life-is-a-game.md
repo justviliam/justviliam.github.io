@@ -4,16 +4,11 @@ excerpt: You've got a great opportunity to play the most exciting game in the wo
 date: 2018-04-01T21:58:00+00:00
 author: viliam
 layout: post
-img: wp.jpg
+img: tis.jpg
 permalink: /life-is-game/
 categories:
   - life
 ---
-
-![Wordpress is very slow](/images/wpslow.jpg){:class="img-responsive"}
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/2ET8hsW6xAk" frameborder="0"> </iframe>
-
 Life is a game. So let's play.
 
 There is this saying: Winners make rule and losers live by them. I guess that nobody wants to be a loser, right. It is in our essence. Everybody loves winning. And I mean small wins, that we can book every day. Like: making your bed, smiling at strangers, giving a compliment or two, getting your job done and list goes on and on. But you get the point.
@@ -25,6 +20,8 @@ Almost every day, I am in aaaaawww mode. Life brings us so many opportunities. S
 Just imagine explaining to fish, that it lives in the water. Or, how would you describe the world that you see with your eyes, to a person that is blind. Try describing the taste of an apple to Eskimo. All of these tasks seems pretty impossible. And yet, they are perfectly normal for some us.
 
 Nowadays, we are living in the best time of human history. There are ton of opportunities waiting for us. You can explore the whole world just with few bucks in your pocket. Then, you can do what you love. And as a bonus, you can even make money with it. How cool is that?
+
+![Chocske vrchy](/images/choc.jpg){:class="img-responsive"}
 
 Learning languages has never been easier. You just buy a ticket, pack few things and you should be good to go. That is what I did, too. And you can‘t imagine how anxious and scared I was. You know, I just didn’t know what to expect. It was something new to me.
 Anyway, once you do that. Once you open the box. And step out of it. You will never look back. Nothing will be the same anymore. Also, you can‘t really imagine closing the box once again. It is simply unthinkable.
@@ -57,13 +54,15 @@ Anyway, fear is not going away. It all comes down to your point of view. You can
 
 I view fear as a son of freedom. You just have to earn it. Because free things are simply worthless (as my uni professor used to say).
 
+Here is the video of me and my friend enjoying a bath in 3° C water.
+
+<iframe width="480" height="360" src="https://www.youtube.com/embed/2ET8hsW6xAk" frameborder="0"> </iframe>
+
 Facing your fear is the only way to go. And I like to go really extreme about it. I am (still) scared of heights, but not as much as I used to.
 
 Few years ago I looked my fear into the eyes and jumped. Out of 120 meters. One of the most exciting things I have done in my life. I returned to the pure essence. Nothing else mattered in that moment. Time stopped. There was just NOW. I got back to the present. Back where I belong.
 
 That moment lasted just for few seconds, but I will remember it forever. It felt amazing. Hard to describe it with the words. Sometimes, the words are just not enough to share an experience. So, if you are scared of heights, go try it out for yourself. You will not regret it. And this is one of the things, that people regret when the life is coming to end. They regret the opportunities they missed.
-
-OBRAZOK COMFORT ZONE: here is the comfort zone and here happens the magic
 
 ## Are you willing to take a risk?
 
@@ -90,5 +89,3 @@ When I moved to Thailand, I was surrounded with people who are living for progre
 It is funny, because right now I have even less money, than when I came to Thailand. But I have a lot of experience, which cannot be evaluated in any currency out there.
 
 And I am trying to surround myself with like minded people. It is gonna be a loooong way. Since sometimes, I just don’t feel like communicating with outer world. And I think, it is fine. Because my energy fluctuates.
-
-Let me know, who are your 5 closest friends.
