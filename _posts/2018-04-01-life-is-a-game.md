@@ -1,5 +1,4 @@
 ---
-published: false
 title: Life is a game, so let's play
 excerpt: You've got a great opportunity to play the most exciting game in the world, called LIFE. And you can make the rules yourself.
 date: 2018-04-01T21:58:00+00:00
