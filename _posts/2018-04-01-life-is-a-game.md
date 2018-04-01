@@ -17,7 +17,7 @@ Life is a game. So let's play.
 
 There is this saying: Winners make rule and losers live by them. I guess that nobody wants to be a loser, right. It is in our essence. Everybody loves winning. And I mean small wins, that we can book every day. Like: making your bed, smiling at strangers, giving a compliment or two, getting your job done and list goes on and on. But you get the point.
 
-##Get out of the box
+## Get out of the box
 
 Almost every day, I am in aaaaawww mode. Life brings us so many opportunities. Sometimes it really feels like a simulation we live in. Although, it can’t be proven (or maybe it could...). I just feel, that there is some higher consciousness, that we simply can’t grasp yet. But we could be a part of it.
 
@@ -32,7 +32,7 @@ After you do the paradigm shift, after you taste the freedom, after you realize 
 
 And we are scared of such places. We, humans, are scared of unknown. That is normal. And I think, that we have gotten to this point of evolution partially because of negative emotions. Fear is obviously one of them.
 
-##Do what you love, love what you do
+## Do what you love, love what you do
 
 It sounds so easy. Reality is, obviously, totally different. In ideal world, everybody would be doing what he is passionate about. Real world is completely different. Studies are saying that only about 15 % of people like their jobs. 
 
@@ -48,7 +48,7 @@ And then, my life started to change. I was doing the thing that I really like. A
 
 Right now, I am still not doing the thing that I love. So, let’s start this journey together. My dream is to make living with writing. What is yours?
 
-##Dance with the fear
+## Dance with the fear
 
 Fear is a part of you. Of yourself. The best thing you can do is just accept that. Unless you are an enlightened person of course.
 
@@ -64,7 +64,7 @@ That moment lasted just for few seconds, but I will remember it forever. It felt
 
 OBRAZOK COMFORT ZONE: here is the comfort zone and here happens the magic
 
-##Are you willing to take a risk?
+## Are you willing to take a risk?
 
 Recently, I have met a lot of people who are simply not afraid. They are not afraid to step out of the box and to walk towards uncertainty. These people are a huge motivation for me. They did quit their jobs for various reasons.
 
@@ -78,7 +78,7 @@ Before moving to Vietnam, I had similar concerns. And I figured that worst thing
 
 So, you see, when you think about the worst case scenarios, you will realize, that nothing bad can happen. Fear is usually irrational. And our mind makes it even bigger than it actually is.
 
-##Surround yourself with DOers
+## Surround yourself with DOers
 
 It just feels better when you belong somewhere. I am convinced, that every one of us wants to belong. So why not surrounding yourself with like minded people? With ones who are living for the progress. With people who are constantly learning new things and who are always getting out of their comfort zones. Because, that is the place where magic happens.
 
