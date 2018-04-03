@@ -12,6 +12,7 @@ categories:
 ---
 
 ![Hanoi Bookworm - best bookshop](/images/hanoi-book.jpg){:class="img-responsive"}
+These are the books that I bought. Total price: 600,000 VND
 
 Over 15,000 books, reasonable prices and they are open every day. What else can you ask for?
 
