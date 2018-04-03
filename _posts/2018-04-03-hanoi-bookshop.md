@@ -32,6 +32,9 @@ Just ask and you shall recieve. It is really easy to communicate your demands.
 
 Oh, if you are above 185 cm (6"1'), then watch your head please. Especially when you are walking up/downstairs. Because ceiling is really close. And I almost hit my head there. 
 
+![Hanoi Bookworm card](/images/hanoi-card.jpg){:class="img-responsive"}
+You can use this card as a bookmark
+
 ## Over 15,000 new and used books. Go get them!
 
 If you are lucky, you can get the books dirty cheap. I bought 4 books just for 600,000 VND (about 26 USD). Funny fact is that one of those books was 300K. So it really depends what are you looking for. 
