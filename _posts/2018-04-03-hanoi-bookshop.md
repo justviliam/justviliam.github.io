@@ -54,3 +54,5 @@ I asked the staff, where is the closest vegetarian restaurant. And he told me, t
 The food was very good. I would say, that it is mid-ranged restaurant, but definitely worth it.
 
 Doesn't matter if you are a vegetarian or not. It's worth trying it. They have many great dishes. I'm sorry again, because I didn't take any pictures. I am still getting used to taking pictures of my food. Whatever, I guess I should just adjust to this trend. And especially cause I am writing this blog, haha.
+
+Let me know what kind of books did you buy :)
