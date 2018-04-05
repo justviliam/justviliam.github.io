@@ -1,7 +1,8 @@
 ---
+published: true
 title: Five-Day Water Fast. I survived
 excerpt: My experience with five-day water fast.
-date: 2018-04-05T00:22:00+00:00
+date: 2018-04-05T08:22:00+00:00
 author: viliam
 layout: post
 img: water.jpg
