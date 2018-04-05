@@ -26,6 +26,7 @@ copyright:
    link: 'http://blog.webjeda.com'
 
 # Build settings
+future: true
 markdown: kramdown
 permalink: /:title/
 paginate: 6
