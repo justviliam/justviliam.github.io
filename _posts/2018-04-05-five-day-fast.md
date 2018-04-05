@@ -1,5 +1,5 @@
 ---
-title: Five-Day Water Fast. I survived
+title: Five-Day Water Fast
 excerpt: My experience with five-day water fast.
 date: 2018-04-05T14:35:00+00:00
 author: viliam
