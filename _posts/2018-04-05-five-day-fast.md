@@ -27,7 +27,7 @@ I felt like I was about to die after about 15 or 16 hours. But I made it. Hell y
 
 I got very hyped up after this experience. I shared it with some of my peers and relatives. Most of them were pretty concerned about my health. Cause back then, I was even skinnier, than I am now. And they advised me not doing it again. Guess what, they had no idea about fasting. No personal experience whatsoever. 
 
-But I don’t blaim them. I was the same. You know, when somebody is changing we feel, that this person is threatening us. Because, this person is telling us – hey, you should change, too. But most of the time, we don’t want to. Cause living in a comfort zone is, let’s say very comfortable.
+But I don’t blame them. I was the same. You know, when somebody is changing we feel, that this person is threatening us. Because, this person is telling us – hey, you should change, too. But most of the time, we don’t want to. Cause living in a comfort zone is, let’s say very comfortable.
 
 ## Wim Hof, a.k.a. Iceman opened my eyes
 
