@@ -66,3 +66,29 @@ Here's how the dashboard looks like. You can choose daily, weekly, monthly or ye
 
 ![RescueTime daily dashboard](/images/rescuetime02.jpg){:class="img-responsive"}
 And here's the detail view of your dashboard
+
+## Limit activities that are not bringing you the value
+
+As soon as you stop refreshing facebook/instagram feed furiously, or watching cat videos on YouTube, you will quickly realize, that you have a plenty of free time.
+
+Now, just use this free time for something that matters. Go for a walk, spend time with your friends, start to exercise, read books, meditate... List of the valuable activities could be endless. Don't think about it too much. Trust your gut feeling and go with it.
+
+In the past, I tried these challenges: 30 days without facebook (multiple times), no fap for almost 3 weeks. But they simply didn't work. Because I didn't have plan what was I going to do afterwards.
+
+I learned the lesson and I realized, that it is not about eliminating the particular activity. It's more about limiting this activity to the minimum. And that's doable for all of you. 
+
+Just ask yourself: is chatting on facebook bringing me any value? Joy? Any opportunities? Does it help me to grow as a person? Do I learn anything? 
+
+And don't get me wrong. Facebook or any other social platform could be very powerful. You just need to learn how to use it in order to get some value out of it.
+
+I use this simple trick for facebook. Every time I log in a private browsing mode. Which means, that facebook doesn't get saved in the browsing history. Also, I have to type in my login and password manually. All the time! 
+
+And I am using plugin, which kills the Facebook feed. Yes. You will not see anything. So you will not get distracted. 
+
+If you want to try it, here are the links
+
+For Firefox users: https://addons.mozilla.org/en-US/firefox/addon/news-feed-eradicator/
+
+For Chrome users: https://chrome.google.com/webstore/detail/news-feed-eradicator-for/fjcldmjmjhkklehbacihaiopjklihlgg?hl=en
+
+
