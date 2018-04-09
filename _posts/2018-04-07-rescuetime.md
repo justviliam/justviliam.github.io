@@ -1,21 +1,18 @@
 ---
-published: false
-title: Improve your productivity instantly with this free software
-excerpt: 
+title: Boost your productivity instantly with RescueTime for free
+excerpt: Boost your productivity with RescueTime. It won't cost you a dime because, it is completely for free. Click here to find out more.
 date: 2018-04-07T16:15:00+00:00
 author: viliam
 layout: post
-img: wp.jpg
+img: rescuetime.jpg
 permalink: /improve-productivity-instantly/
 categories:
   - productivity
 ---
 
-![Wordpress is very slow](/images/wpslow.jpg){:class="img-responsive"}
+![Boost your productivity with RescueTime](/images/rescuetime_big.jpg){:class="img-responsive"}
 
-<iframe width="480" height="360" src="https://www.youtube.com/embed/2ET8hsW6xAk" frameborder="0"> </iframe>
-
-We live in the greatest time in a history of human kind. And yet, we are facing fundamental problems. Nowadays, we have ton of free time. And yet, we end up spending most of it for meaningless tasks. 
+We live in the greatest times in a history of human kind. And yet, we are facing fundamental problems. Nowadays, we have ton of free time. And yet, we end up spending most of it for meaningless tasks. 
 
 But the fight hasn't been lost yet. We can manage to change our lives. And thus, we can change the world as whole.
 
@@ -53,6 +50,10 @@ You can even categorize the activities. For example - Facebook could be very dis
 
 There are three main categories, that you can put particular activity into: distracting, neutral, productive.
 
+In case you want to soak in more information, here is the video review that I found on YouTube:
+
+<iframe width="480" height="360" src="https://www.youtube.com/embed/qVHNpGVICvw" frameborder="0"> </iframe>
+
 ## A picture is more than million words
 
 ![RescueTime total time logged](/images/rescuetime01.jpg){:class="img-responsive"}
@@ -79,6 +80,12 @@ I learned the lesson and I realized, that it is not about eliminating the partic
 
 Just ask yourself: is chatting on facebook bringing me any value? Joy? Any opportunities? Does it help me to grow as a person? Do I learn anything? 
 
+![RescueTime wasting time on Facebook](/images/rescuetime05.jpg){:class="img-responsive"}
+This is the report, that was complete mindfuck for me. Almost 21 hours of Social Networking just in a week. Can you imagine?
+
+![RescueTime productivity boost](/images/rescuetime06.jpg){:class="img-responsive"}
+It took me some time to make a shift and spend most of my time doing something that is valuable, instead of just bullshitting around. And trust me, you can do the same. It will be a long journey, but well worth it.
+
 And don't get me wrong. Facebook or any other social platform could be very powerful. You just need to learn how to use it in order to get some value out of it.
 
 I use this simple trick for facebook. Every time I log in a private browsing mode. Which means, that facebook doesn't get saved in the browsing history. Also, I have to type in my login and password manually. All the time! 
@@ -91,4 +98,15 @@ For Firefox users: https://addons.mozilla.org/en-US/firefox/addon/news-feed-erad
 
 For Chrome users: https://chrome.google.com/webstore/detail/news-feed-eradicator-for/fjcldmjmjhkklehbacihaiopjklihlgg?hl=en
 
+## Conclusion
+
+Try it for yourself and let me know how it works for you. You got nothing to lose. But first, you have to defeat the fear deep down there. Because, most of the time, we don't want to hear the truth.
+
+You can hear the voice speaking to you right now: don't do it! Listen, you are doing good now. What if you realize, that you are really wasting your time?
+
+And don't tell me, that you don't have this voice speaking to you haha.
+
+Decision is up to you. I can show you the door, but you have to walk through them.
+
+Facing the truth could be a very painful process. 
 
