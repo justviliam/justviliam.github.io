@@ -5,7 +5,7 @@ date: 2018-04-07T16:15:00+00:00
 author: viliam
 layout: post
 img: rescuetime.jpg
-permalink: /improve-productivity-instantly/
+permalink: /boost-productivity-instantly/
 categories:
   - productivity
 ---
