@@ -24,17 +24,17 @@ So let's take a look how you can boost your productivity.
 
 ## Admit, that you are spending some of your time on stupid shit
 
-This part is crucial and the hardest one at the same time. You simply have to realize, that swiping Instagram feed, reading stupid stories about celebrities, refreshing your Facebook feed, watching cat videos on YouTube, checking your Email account 27 times per day... None of these are gonna help you.
+This part is crucial and the hardest one at the same time. You simply have to realize, that swiping you Instagram feed, reading stupid stories about celebrities, refreshing Facebook feed, watching cat videos on YouTube, checking your email 27 times per day... None of these are gonna help you.
 
-All of these activities could be beneficial for you. Well, maybe except cat videos and checking your Email furiously haha. Just don't do them at excess. That's all. Thing is, that Facebook, YouTube or Instagram could be used for presenting yourself. Which might be a very valuable investment for you. 
+All of these activities could be beneficial for you. Well, maybe except cat videos and checking your email furiously haha. Just don't do them at excess. That's all. Thing is, that Facebook, YouTube or Instagram could be used for presenting yourself. Which might be a very valuable investment for you. 
 
 95 % of your thoughts are unconscious. So how the hell can you fix something, if you don't even know what it is? 
 
-First step of the process is bring awareness to the issue. **I am going to show you how to do it in 6 minutes and for free!**
+First step of the process is bringing awareness to the issue. **I am going to show you how to do it in 6 minutes and for free!**
 
 ## Find out which online activities are useless for you
 
-You will need **RescueTime** for this. This software tracks what you do on your computer. And it is for free.
+You will need **RescueTime** for this. This software tracks what you do on your computer. And it is for FREE.
 
 All you need to do is download it, set it up and use your computer the same way as before. 
 
@@ -42,11 +42,11 @@ All you need to do is download it, set it up and use your computer the same way 
 
 ## Here's how RescueTime works
 
-Let's say that you go on facebook. As soon as you enter the site, RescueTime will start logging the time that you spend on the site.
+Let's say that you go on Facebook. As soon as you enter the site, RescueTime will start logging the time that you spend on the site.
 
-This works even for desktop applications. For instance, you start Microsoft Office and RescueTime will immediately start tracking the time, that you spend using this software.
+This works even for desktop applications. For instance, you launch Microsoft Office and RescueTime will immediately start tracking the time, that you spend using this software.
 
-You can even categorize the activities. For example - Facebook could be very distracting activity for most of us. But some people use it for business purposes. 
+You can even categorize the activities. For example - Facebook could be very distracting activity for most of us. But some people use it for business purposes. So it will be different for them.
 
 There are three main categories, that you can put particular activity into: distracting, neutral, productive.
 
@@ -63,16 +63,16 @@ Total time logged. As you can see, I have been using RescueTime for quite a long
 Truth hurts...
 
 ![RescueTime daily dashboard](/images/rescuetime01.jpg){:class="img-responsive"}
-Here's how the dashboard looks like. You can choose daily, weekly, monthly or yearly dashboard. Productivity pulse means, how efficient you are with the time. The higher, the better. Obviously, this number is far away from reality. I will talk about it below.
+Here's how the dashboard looks like. You can choose daily, weekly, monthly or yearly dashboard. Productivity pulse means, how efficient you are with the time. The higher, the better. Obviously, this number is not my usual.
 
 ![RescueTime daily dashboard](/images/rescuetime02.jpg){:class="img-responsive"}
-And here's the detail view of your dashboard
+And here's the detail view of your dashboard.
 
 ## Limit activities that are not bringing you the value
 
-As soon as you stop refreshing facebook/instagram feed furiously, or watching cat videos on YouTube, you will quickly realize, that you have a plenty of free time.
+As soon as you stop refreshing Facebook/Instagram feed furiously, or watching cat videos on YouTube, you will quickly realize, that you have a plenty of free time.
 
-Now, just use this free time for something that matters. Go for a walk, spend time with your friends, start to exercise, read books, meditate... List of the valuable activities could be endless. Don't think about it too much. Trust your gut feeling and go with it.
+Now, it is simple. Just use this free time for something that matters. Go for a walk, spend time with your friends, start to exercise, read books, meditate... List of the valuable activities could be endless. Don't think about it too much. Trust your gut feeling and go with it.
 
 In the past, I tried these challenges: 30 days without facebook (multiple times), no fap for almost 3 weeks. But they simply didn't work. Because I didn't have plan what was I going to do afterwards.
 
@@ -84,13 +84,13 @@ Just ask yourself: is chatting on facebook bringing me any value? Joy? Any oppor
 This is the report, that was complete mindfuck for me. Almost 21 hours of Social Networking just in a week. Can you imagine?
 
 ![RescueTime productivity boost](/images/rescuetime06.jpg){:class="img-responsive"}
-It took me some time to make a shift and spend most of my time doing something that is valuable, instead of just bullshitting around. And trust me, you can do the same. It will be a long journey, but well worth it.
+It took me some time to make a shift and spend most of my time doing something that matters, instead of just bullshitting around. And trust me, you can do the same. It will be a long journey, but well worth it.
 
 And don't get me wrong. Facebook or any other social platform could be very powerful. You just need to learn how to use it in order to get some value out of it.
 
 I use this simple trick for facebook. Every time I log in a private browsing mode. Which means, that facebook doesn't get saved in the browsing history. Also, I have to type in my login and password manually. All the time! 
 
-And I am using plugin, which kills the Facebook feed. Yes. You will not see anything. So you will not get distracted. 
+And I am using plugin, which kills the Facebook feed. Yes. You will not see any post. So you will not get distracted. 
 
 If you want to try it, here are the links
 
@@ -102,11 +102,8 @@ For Chrome users: https://chrome.google.com/webstore/detail/news-feed-eradicator
 
 Try it for yourself and let me know how it works for you. You got nothing to lose. But first, you have to defeat the fear deep down there. Because, most of the time, we don't want to hear the truth.
 
-You can hear the voice speaking to you right now: don't do it! Listen, you are doing good now. What if you realize, that you are really wasting your time?
+You can hear the voice speaking to you right now: don't do it! Listen, you are doing good now. What if you realize, that you are really wasting your time? What you gonna do then?
 
 And don't tell me, that you don't have this voice speaking to you haha.
 
-Decision is up to you. I can show you the door, but you have to walk through them.
-
-Facing the truth could be a very painful process. 
-
+![Morpheus - Matrix movie](/images/morpheus.jpg){:class="img-responsive"}
