@@ -10,7 +10,7 @@ html,body {
 .navbar-default {
     border-color: transparent;
     background-color: transparent;
-    /*padding: 10px 0;*/
+    padding: 10px 0;
     border-bottom: 1px solid #eee;
 }
 
@@ -28,14 +28,14 @@ img {
 }
 
 .mt50 {
-    /*margin-top: 50px;
+    margin-top: 50px;
 }
 .mt20 {
    margin-top: 20px;
 }
 
 .mt10 {
-    margin-top: 10px;*/
+    margin-top: 10px;
 }
 .mt25 {
     margin-top: 0;
@@ -50,7 +50,7 @@ img {
 .navbar-brand {
     font-weight: 900;
     font-size: 1.85em;
-    /*padding: 10px;*/
+    padding: 10px;
     @media screen and (max-width: $on-palm) {
         font-size: 1.5em;
     }
