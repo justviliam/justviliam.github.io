@@ -1,12 +1,11 @@
 ---
-published: false
-title: Leaving slow Wordpress
+title: How to Gain Weight: Guide for skinny guys
 excerpt: After few years of using Wordpress, I realized it is too slow for me. So I moved my blog to much faster solution, called Jekyll.
-date: 2018-04-11T17:44:00+00:00
+date: 2018-04-13T00:05:00+00:00
 author: viliam
 layout: post
 img: gymer.jpg
-permalink: /leaving-slow-wordpress/
+permalink: /gain-weight-skinny-guys/
 categories:
   - nutrition
   - exercise
@@ -156,7 +155,7 @@ You can pick whatever exercises you want. That is completely up to you.
 
 I was training this 3-4x week. And it worked like a charm.
 
-![Selfie time](/images/zelfie.jpg){:class="img-responsive"}
+![Selfie time](/images/zelfie.JPG){:class="img-responsive"}
 
 ![Deadlift in Muscle factory Bangkok](/images/gym01.jpg){:class="img-responsive"}
 Caption: There must be more to life...
