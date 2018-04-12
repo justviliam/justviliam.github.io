@@ -1,6 +1,6 @@
 ---
 title: How to Gain Weight: Guide for skinny guys
-excerpt: After few years of using Wordpress, I realized it is too slow for me. So I moved my blog to much faster solution, called Jekyll.
+excerpt: Tired of not gaining weight? This guide might be helpful for you. I will share with you, how I gained 5.9 kg in just a month.
 date: 2018-04-13T00:05:00+00:00
 author: viliam
 layout: post
@@ -45,6 +45,8 @@ Dinner: 200g of chicken breasts and 150g of rice
 Sometimes, the snack was my last meal. Cause I just didn’t have the energy to eat 5 whole meals. I think, that 3,000 kcal was actually 4 meals. And these complete 5 meals should contain about 3,500 kcal.
 
 Just imagine eating all of this. Sometimes, I wanted to cry, because I didn’t feel strong enough to keep at the pace. 
+
+I managed to gain 5.9 kg in just a month. Just by following this eating plan and doing trainings regularly.
 
 Conclusion of this. Math is simple. **You aren’t gaining the weight? Means, you don’t eat enough. EAT MOAAAAAR!!!** A lot more…
 
