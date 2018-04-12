@@ -1,7 +1,7 @@
 ---
 title: How to Gain Weight: Guide for skinny guys
 excerpt: Tired of not gaining weight? This guide might be helpful for you. I will share with you, how I gained 5.9 kg in just a month.
-date: 2018-04-13T00:05:00+00:00
+date: 2018-04-12T00:05:00+00:00
 author: viliam
 layout: post
 img: gymer.jpg
@@ -156,6 +156,12 @@ Eccentric phase should be performed for 5 seconds. Concentric phase for 5 second
 You can pick whatever exercises you want. That is completely up to you. 
 
 I was training this 3-4x week. And it worked like a charm.
+
+You can check out my gaining weight challenge right here: https://vili.am/skinny-body-to-beast-body-in-28-days/
+
+And here are the results of it, with pictures included: https://vili.am/gained-59-kg-28-days/
+
+Photos below were taken few months back.
 
 ![Selfie time](/images/zelfie.JPG){:class="img-responsive"}
 
