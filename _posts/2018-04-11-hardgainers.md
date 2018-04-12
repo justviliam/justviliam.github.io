@@ -5,14 +5,14 @@ excerpt: After few years of using Wordpress, I realized it is too slow for me. S
 date: 2018-04-11T17:44:00+00:00
 author: viliam
 layout: post
-img: wp.jpg
+img: gymer.jpg
 permalink: /leaving-slow-wordpress/
 categories:
   - nutrition
+  - exercise
 ---
 
-![Wordpress is very slow](/images/wpslow.jpg){:class="img-responsive"}
-<iframe width="480" height="360" src="https://www.youtube.com/embed/2ET8hsW6xAk" frameborder="0"> </iframe>
+![Deadlift in Muscle factory - Bangkok](/images/gym02.jpg){:class="img-responsive"}
 
 It's been a year since I started training consistently. It’s been quite a journey. And this is just the beginning.
 
@@ -30,11 +30,14 @@ Gaining weight, for us, hardgainers is a very painful process. People say, that 
 
 **My diet looked like this**
 
+![Breakfast - eggs with oats](/images/eggs-oats.jpg){:class="img-responsive"}
 Breakfast: 5 XL eggs with about 150g of oat meal. Don’t worry, I used two plates. Unfortunately, just one stomach for digesting it. Oh, yeah, I almost forgot. I used to pour eggs in Sriracha (don’t ever buy this, it is highly addictive substance)
 
-Snack: 5 loaves of bread with huge amount of peanut butter on top of it and some fruit (papaya, dragon fruit, melon etc.)
+![Peanut butter with dragon fruit](/images/snack.jpg){:class="img-responsive"}
+Snack: 4/5 loaves of bread with huge amount of peanut butter on top of it and some fruit (papaya, dragon fruit, melon etc.)
 
-Lunch: 200g of chicken breasts and 150g of raw rice
+![Rice with chicken curry](/images/food.jpg){:class="img-responsive"}
+Lunch: 200g of chicken breasts with curry, coconut milk and 150g of raw rice
 
 Snack: a can of baked beans (sounds healthy, right) combined with a can of tuna (because there is always room for one more can)
 
@@ -152,6 +155,11 @@ Eccentric phase should be performed for 5 seconds. Concentric phase for 5 second
 You can pick whatever exercises you want. That is completely up to you. 
 
 I was training this 3-4x week. And it worked like a charm.
+
+![Selfie time](/images/zelfie.jpg){:class="img-responsive"}
+
+![Deadlift in Muscle factory Bangkok](/images/gym01.jpg){:class="img-responsive"}
+Caption: There must be more to life...
 
 And honestly, it was one of the most demanding routines I have ever tried. And also one of the boring ones. Because training for hypertrophy is not really my thing. I just did this as an experiment.
 
