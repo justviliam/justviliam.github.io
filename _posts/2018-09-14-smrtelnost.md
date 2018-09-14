@@ -1,12 +1,12 @@
 ---
-published: false
-title: Nie sme tu navždy
-excerpt: 
-date: 2018-09-05T02:22:00+00:00
+published: true
+title: Život netrvá večne
+excerpt: Život netrvá večne. A ak sme nespokojní, mali by sme niečo zmeniť.
+date: 2018-09-14T11:50:00+00:00
 author: viliam
 layout: post
-img: wp.jpg
-permalink: /leaving-slow-wordpress/
+img: smrt.jpg
+permalink: /zivot-netrva-vecne/
 categories:
   - život
 ---
