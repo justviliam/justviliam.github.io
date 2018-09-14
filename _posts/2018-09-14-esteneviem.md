@@ -12,4 +12,9 @@ categories:
 ---
 
 ![Wordpress is very slow](/images/wpslow.jpg){:class="img-responsive"}
-<iframe width="480" height="360" src="https://www.youtube.com/embed/2ET8hsW6xAk" frameborder="0"> </iframe>
+
+Je to večný boj. Nie som prvý ani posledný, kto má túto dilemu.
+
+Rozum mi hovorí - rob to, čo doteraz. Je to bezpečné. A môžeš tak osloviť viac ľudí a zarobiť viac peňazí.
+
+Ale srdce hovorí - je čas na zmenu. 
