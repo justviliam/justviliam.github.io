@@ -1,26 +1,23 @@
 ---
 published: false
-title: Leaving slow Wordpress
-excerpt: After few years of using Wordpress, I realized it is too slow for me. So I moved my blog to much faster solution, called Jekyll.
+title: Nie sme tu navždy
+excerpt: 
 date: 2018-09-05T02:22:00+00:00
 author: viliam
 layout: post
 img: wp.jpg
 permalink: /leaving-slow-wordpress/
 categories:
-  - jazyky
+  - život
 ---
-
-![Wordpress is very slow](/images/wpslow.jpg){:class="img-responsive"}
-<iframe width="480" height="360" src="https://www.youtube.com/embed/2ET8hsW6xAk" frameborder="0"> </iframe>
 
 Hurá! Konečne som sa k tomu dostal a odhodlal. Dlhý čas som mal pocit, že si na to nájdem čas niekedy inokedy. Veď som ešte mladý. Je to podobné ako s cestovaním po svojej rodnej Zemi - veď som ešte mladý, budem cestovať potom. Ale spýtaj sa starších, že koľkí z nich uvažovali rovnako a koľkí z nich to aj splnili!
 
 To je ponaučenie pre nás. Pre mladú generáciu. Robiť veci teraz. A keď niečo chceme odložiť, tak by to mali byť knihy na poličku.
 
-Veľa som v poslednej dobe uvažoval. Vo finančnej sfére sa mi príliš nedarí. V dôsledku čoho bývam s rodičmi. Na celkovej pohode to nepridáva, ale je tu teplejšie ako na ulici. Takže sa nesťažujem, iba si to viem predstaviť o čosi lepšie :D 
+Veľa som v poslednej dobe uvažoval, ako ďalej. Vo finančnej sfére sa mi príliš nedarí. Záväzky ešte nemám. Tak som si zbalil ruksak a idem. Nevedno kam.
 
-Nuž, ale ja som strojcom svojho šťastia. Ak som teda nešťastný, chybu by som mal hľadať iba a len v sebe.
+Ssom strojcom svojho šťastia. Ak som teda nešťastný, chybu by som mal hľadať len a len v sebe.
 
 Uvedomil som si jednu zásadnú vec. Nie som tu večne. Teda nie v tomto tele - pre upresnenie :P
 
@@ -48,14 +45,14 @@ Ak Ti teraz napadlo, že vysoký tlak a kŕčové žily máte v rodine. Že sú 
 
 To je ako s pôstom. A teraz nemyslím ten výmysel, že nedám si bravčové, ale iba rybu. Myslím pôst čisto na vode. Sprvu som sa snažil ľuďom ukázať aké liečivé účinky má táto "metóda" na telo. Ale pochopil som, že je to zbytočné. Články na túto tému plánujem písať v budúcnosti. Teraz zbieram skúsenosti.
 
-Najviac sa mi páči, že ma presviedčajú ľudia o tom, aké je to škodlivé. O tom, že anorexia je nebezpečná. Alebo že sa mi vyplaví všetka mikroflóra z čreva von. Ale tiež, že sa mi niečo môže stať. Samozrejme sa na túto tému vyjadrujú ľudia, ktorí o tom hovno vedia. Taká je realita.
+Najviac sa mi páči, že ma presviedčajú ľudia o tom, aké je to škodlivé. O tom, že anorexia je nebezpečná. Alebo že sa mi vyplaví všetka mikroflóra z čreva von. Ale tiež, že sa mi niečo môže stať. Samozrejme sa na túto tému vyjadrujú ľudia, ktorí nemajú skúsenosti. Taká je realita.
 
-To je ako keď sú majstrovstvá a Slovensko sa zmení na 5 a pol milióna trénerov. Každý vie, ako to zahrať a čo mal hráč urobiť. Je to smiešne vyjadrovať sa k niečomu, o čom nemá človek znalosti. Ja netvrdím, že mne sa niečo také nestane. Určite ujde "dobrá rada" niekedy aj mne. Snažím sa dávať si na to pozor. 
+To je ako keď sú majstrovstvá a Slovensko sa zmení na 5 a pol milióna trénerov. Každý vie, ako to zahrať a čo mal hráč urobiť. Je to smiešne vyjadrovať sa k niečomu, čo si človek sám nevyskúšal a pozná to len z kníh alebo rozprávanie iných. Ja netvrdím, že mne sa niečo také nestane. Určite občas ujde "dobrá rada" niekedy aj mne. Snažím sa dávať si na to pozor. 
 
-Najlepšie je, že ochorenia typu: ekzém, alergia a milión iných, o ktorých by som tu mohol písať dozajtra... sa dajú pôstom vyliečiť. Ja som to už povedal viacerým ľuďom. A čakal som, že hneď v tom momente prestanú jesť (nie navždy :D). Ale realita je iná. Každý sa pozeráme na svet zo svojho uhla pohľadu. A to, čo je pre mňa skvelé, môže byť pre iného totálna blbosť. Pointa asi ani nie je, aby sme si všetci navzájom rozumeli. Ale aby sme boli k sebe tolerantní. A to je bohove ťažké niekedy.
+Najlepšie je, že ochorenia typu: ekzém, alergia a milión iných, o ktorých by som tu mohol písať dozajtra... sa dajú pôstom vyliečiť. Ja som to už povedal viacerým ľuďom. A čakal som, že hneď v tom momente prestanú jesť (nie navždy :D). Ale realita je iná. Každý sa pozeráme na svet zo svojho uhla pohľadu. A to, čo je pre mňa skvelé, môže byť pre iného totálna blbosť. Pointa asi ani nie je, aby sme si všetci navzájom rozumeli. Ale aby sme boli k sebe tolerantní. A to je niekedy bohovsky ťažké.
 
-Žijeme v dobe, kedy je ľahšie použiť rýchle riešenie, ktoré je takmer bez námahy. Ako zvoliť tŕnistú cestu plnú krvi a potu, ktorá zároveň lieči príčinu. Ide do hĺbky a neostáva na povrchu. Lebo táto cesta vyžaduje zmenu. A tá bolí.
+Žijeme v dobe, kedy je ľahšie použiť rýchle riešenie, ktoré je takmer bez námahy. Ako zvoliť tŕnistú cestu plnú krvi a potu, ktorá zároveň rieši príčinu. Ide do hĺbky a neostáva na povrchu. Lebo táto cesta vyžaduje zmenu. A zmena bolí.
 
-Keď sa tak zamýšľam, tak som asi ten najhorší propagátor pôstu. Lebo nemám žiadne chronické ochorenie a ani nadváhu. Potom sa ťažko dokazujú účinky tejto metódy, ktorá je taká stará ako ľudstvo samo. Vlastne ešte staršia, lebo zvieratá to už robili dávno pred nami. V prírode sa prirodzene striedajú obdobia hojnosti a obdobia nedostatku. Ale my sme predsa múdrejší než nejaká príroda a obdobie blahobytu sme si predĺžili nafurt.
+Keď sa tak zamýšľam, tak som asi ten najhorší propagátor pôstu. Lebo nemám žiadne chronické ochorenie a ani nadváhu. Potom sa ťažko dokazujú účinky tejto metódy, ktorá je taká stará ako ľudstvo samo. Vlastne ešte staršia, lebo zvieratá to už robili od nepamäti. V prírode sa prirodzene striedajú obdobia hojnosti a obdobia nedostatku. Ale my sme predsa múdrejší než nejaká príroda a obdobie blahobytu sme si predĺžili nafurt.
 
 Celý tento článok mal byť pôvodne o niečom inom, ale zvhrlo sa to na smrteľnosť. A vlastne je to taký freestyle. Aj tak sa mi tu fajne hodia slová Steve-a Jobsa (ktorého meno je po slovensky Štefan Roboty alebo Štefan Zamestnania, či Štefan Práce), ktorý preriekol: každé ráno som sa pozrel do zrkadla a opýtal sa samého seba - keby bol toto môj posledný deň života, prežil by som ho rovnako, ako sa momentálne chystám? A ak odpoveď znela nie, okamžite spravil zmenu.
