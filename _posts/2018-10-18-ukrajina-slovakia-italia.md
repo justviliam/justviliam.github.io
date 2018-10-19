@@ -1,7 +1,7 @@
 ---
 published: true
 title: Keď Slovák stretne Ukrajinca v Taliansku :D
-excerpt: 
+excerpt: Keď Slovák stretne Ukrajinca v Taliansku :D
 date: 2018-18-10T21:40:00+00:00
 author: viliam
 layout: post
