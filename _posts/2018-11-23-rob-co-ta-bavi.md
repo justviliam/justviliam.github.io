@@ -1,12 +1,12 @@
 ---
 published: true
-title: Rob to, čo Ťa baví - POZOR, článok obsahuje emócie autora
+title: Ako som zarobil 3000 EUR za mesiac a aj tak som bol NEŠŤASTNÝ
 excerpt: Dlhú dobu som robil niečo, čo som robiť nechcel. Dlhú dobu som si to ospravedlňoval...
 date: 2018-11-23T10:44:00+00:00
 author: viliam
 layout: post
 img: bav.jpg
-permalink: /rob-co-ta-bavi/
+permalink: /3000-za-mesiac/
 categories:
   - život
 ---
