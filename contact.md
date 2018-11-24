@@ -6,6 +6,6 @@ published: true
 ---
 
 
-mail: just@vili.am
+mail: justviliam@gmail.com
 FB: justviliam
 IG: justviliam
