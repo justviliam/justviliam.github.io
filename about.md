@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-published: true
+published: false
 ---
 My journey has begun in 1993. 
 
