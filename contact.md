@@ -6,6 +6,8 @@ published: true
 ---
 
 
-mail: justviliam@gmail.com
-FB: justviliam
-IG: justviliam
+e-mail: v.brozman@gmail.com
+
+Facebook: justviliam
+
+Instagram: justviliam
