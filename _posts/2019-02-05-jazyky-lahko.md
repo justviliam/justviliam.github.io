@@ -1,7 +1,7 @@
 ---
 published: true
 title: Ako sa za mesiac naučíš základy cudzieho jazyka?
-excerpt: Základy cudzieho jazyka za mesiac? Veľa rozprávaj, počúvaj a nerob sa robiť chyby. To je celé "tajomstvo" :)
+excerpt: Základy cudzieho jazyka za mesiac? Veľa rozprávaj, počúvaj a neboj sa robiť chyby. To je celé "tajomstvo" :)
 date: 2019-02-05T02:35:00+00:00
 author: viliam
 layout: post
