@@ -1,17 +1,18 @@
 ---
-published: false
+published: true
 title: Ako sa za mesiac naučíš základy cudzieho jazyka?
-excerpt: 
+excerpt: Základy cudzieho jazyka za mesiac? Veľa rozprávaj, počúvaj a nerob sa robiť chyby. To je celé "tajomstvo" :)
 date: 2019-02-05T02:35:00+00:00
 author: viliam
 layout: post
 img: vils.jpg
-permalink: //
-categories: - jazyky 
+permalink: /cudzi-jazyk-za-mesiac/
+categories: 
+- jazyky 
   - 
 ---
 
-![Wordpress is very slow](/images/vil.jpg){:class="img-responsive"}
+![Viliam Brozman](/images/vil.jpg){:class="img-responsive"}
 
 Jazyky sú jednoduché. Tvrdím to odjakživa a vždy budem.
 
@@ -22,10 +23,13 @@ Takže keď sa chceš učiť cudzí jazyk, je to jednoduché. Potrebuješ spravi
 len tieto dve veci: hovoriť a počúvať. Týmto spôsobom si sa predsa naučil aj
 svoj rodný jazyk, pamätáš?
 
+## Buď ako dieťa
+
 Tak prečo by to nefungovalo aj pre ďalší jazyk? Okrem iného je dokázané, že
 dospelým sa jazyk učí lepšie ako deťom. Pretože už si dokážeme
 rýchlejšie a lepšie vytvárať asociácie a dokážeme sa pýtať: Čo znamená toto?
 Ako mi vysvetlíš tamto? Ako sa povie hento?
+
 
 Dôležité je pri učení jazyka byť ako dieťa. Hovoriť, hovoriť, hovoriť. A pýtať
 sa. A nezabúdaj na chyby. Ale to príde prirodzene. Ja hovorím, že je lepšie
@@ -36,6 +40,8 @@ Pretože chyby sú súčasťou učebného procesu. Hlavne vytrvaj. Nevzdávaj to
 keby si pri prvých neúspechoch zahodil bicykel do kúta, tak by si sa tiež
 doteraz nevedel bicyklovať (dúfam, že sa tu vieme všetci :D)
 
+## Začiatky bolia
+
 Začiatky bolia, ale zároveň sú zábavné. Využi začiatok nalno, pretože na 
 začiatku sa učíš najrýchlejšie. Potom už je ten progres pomalší. Takže keď
 si postavíš poriadne pevné železo-betónové základy, nič ich nezničí. Budú
@@ -44,6 +50,8 @@ zasadené pevne v zemi. A potom môžeš budovať ďalej.
 Nad strechou teraz nerozmýšľaj. Buduj základy. To znamená veľa počúvaj Tvoj cieľový jazyk.
 Ja keď som prišiel do Talianska alebo Brazílie, tak som si zapol rádio a 
 naladil som sa na miestne rozhlasové frekvencie.
+
+## Počúvaj, počúvaj a... počúvaj!
 
 Len preto, aby som si napočúval ten jazyk. Teda prvé dni som ani nerozprával.
 Fakt som len počúval. Bol som v prostredí jazyka, ktorý som sa učil celý deň.
@@ -56,6 +64,8 @@ S tými rádiovými stanicami som len skúšal novú metódu. Pre Teba fungovať
 Ja definujem moju cestu tromi slovami: život je zmena. Takže neustále hľadám
 nové spôsoby, ako sa stať lepším človekom a ako sa naučiť v tomto živote
 čo najviac zručností. A ako sa učiť veci bez toho, aby som vedel, že sa učím.
+
+## Učenie bez učenia?
 
 Tak to robím tak, že som si z učenia spravil zábavný a kreatívny proces. 
 Proste počas dňa chodím po uliciach a dávam sa do reči s ľuďmi. S kýmkoľvek.
@@ -72,6 +82,8 @@ Haha. Ale to sa zlepšuje zo dňa na deň.
 No a potom poviem - nerozumiem po brazílsky. A obaja vybuchneme do smiechu.
 Ja sa ospravedlním. On/a povie - to nevadí. Ukážu mi palec hore a ideme
 každý svojou cestou.
+
+## S palcom hore to ide ľahšie
 
 Inak gesto palec hore, je tu veľmi používané. Povedal by som, že je to niečo
 ako u nás keď použiješ slovo dobre. Tak ja to napríklad použijem - to gesto -
@@ -94,6 +106,8 @@ No ale jej prízvuk a gramatika je kus iná ako tu v Brazílsku, takže sa na to
 smejeme. A vraj je to večná bitva medzi Portugalskom a Brazílskom. Že si robia
 zo seba navzájom srandu. Ale samozrejme v dobrom, doberajú sa :)
 
+## Za pár týždňov sa naučíš základy jazyka
+
 Takže stačí, že budeš hovoriť a počúvať a veľa sa pýtať. A za pár týždňov
 si na solídnom leveli. Bum! Lenže dôležité je vystupovať pravidelne z komfortnej
 zóny. Ja už som sa presťahoval z komfortnej zóny do tej opačnej a som v nej
@@ -114,28 +128,4 @@ aj videjká a aj článočky. Zatiaľ všetko po slovensky. Takže ak Ťa zaují
 aký je tu život, tak čekuj, sleduj, lajkuj, komentuj a pokojne mi daj aj
 spätnú vazbu. Lebo bez nej sa nezlepším :)
 
-Nadáááááááááááááááár
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Nadáááááááááááááááár :)
