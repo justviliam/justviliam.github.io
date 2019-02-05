@@ -5,14 +5,13 @@ excerpt:
 date: 2019-02-05T02:35:00+00:00
 author: viliam
 layout: post
-img: .jpg
+img: vils.jpg
 permalink: //
-categories: - 
+categories: - jazyky 
   - 
 ---
 
-![Wordpress is very slow](/images/wpslow.jpg){:class="img-responsive"}
-<iframe width="480" height="360" src="https://www.youtube.com/embed/2ET8hsW6xAk" frameborder="0"> </iframe>
+![Wordpress is very slow](/images/vil.jpg){:class="img-responsive"}
 
 Jazyky sú jednoduché. Tvrdím to odjakživa a vždy budem.
 
