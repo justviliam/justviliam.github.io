@@ -15,4 +15,4 @@ categories:
 
 [YT klik](https://www.youtube.com/watch?v=1wo5AxZtZ9A) 
 
-Jurajova stránka o pôstoch a zdravom životnom štýle je tu: [YT klik](http://vitazdroje.eu/)
+Jurajova stránka o pôstoch a zdravom životnom štýle je tu: [www.vitazdroje.eu](http://vitazdroje.eu/)
