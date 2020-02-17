@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Ako si nájsť brigádu v Prahe za pár dní
 excerpt: Nie je v tom žiadne mágia, stačí si sadnúť na zadok a hľadať, a hľadať...
 date: 2020-02-17T10:44:00+00:00
