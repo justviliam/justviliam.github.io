@@ -14,7 +14,7 @@ description: > # this means to ignore newlines until "baseurl:"
   
   
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://justviliam.github.io" # the base hostname & protocol for your site
+url: "http://justviliam.github.io/" # the base hostname & protocol for your site
 
 #sidebar
 default-image: webjeda-logo-big.jpg # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
@@ -39,7 +39,7 @@ analytics: UA-6810782-25
 disqus-shortname: http-vili-am
 
 #social
-facebook: http://facebook.com/viliammmmm
+facebook: http://facebook.com/viliammmmm/
 
 #facebook like box
 #fb-app-id: 1861898717394681
@@ -55,7 +55,7 @@ plugins: [jekyll-paginate, jekyll-seo-tag]
 
 # Open Graph nastavenia
 og_image: images/webjeda-logo-big.jpg # Default image for Open Graph tag
-og_image_type: image/jpg
+og_image_type: image/jpeg
 og_image_width: 400
 og_image_height: 250
 
