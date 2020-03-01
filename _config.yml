@@ -52,3 +52,10 @@ sass:
 
 # Ruby Gems
 plugins: [jekyll-paginate, jekyll-seo-tag]
+
+# Open Graph nastavenia
+og_image: images/webjeda-logo-big.jpg # Default image for Open Graph tag
+og_image_type: image/jpg
+og_image_width: 400
+og_image_height: 250
+
