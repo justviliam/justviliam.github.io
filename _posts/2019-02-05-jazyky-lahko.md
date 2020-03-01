@@ -14,6 +14,26 @@ categories:
 
 ![Viliam Brozman](/images/vil.jpg){:class="img-responsive"}
 
+## Aktualizácia článku 1. 3. 2020 
+
+Pridal som do článku videjká, kde bojujem s románskymi jazykmi. Je to trochu pripomienka aj pre mňa samotného, že sa to dá. Keď mám chuť a dôvod. Ani portugalčinu, ani taliančinu, som bohužial od tej doby nezveľaďoval, takže teraz si pamätám nanajvýš pár slov. A vetu by som poskladal len sťažka. To je asi ďalšia dôležitá vec - vytrvať. Lebo ako človek jazyk prestane používať, tak je to ako na sánkovačke. Veľmi rýchlo to ide dole.
+
+## 2,5 týždňov učenia sa portugalčiny
+
+<iframe width="480" height="360" src="https://www.youtube.com/embed/lL1Zl8aJmWY" frameborder="0"> </iframe>
+
+## 9 dní učenia sa taliančiny
+
+<iframe width="480" height="360" src="https://www.youtube.com/embed/VblevA3kibg" frameborder="0"> </iframe>
+
+## Nič nie je nemožné
+
+Keď si s odstupom času pozriem tieto videjká, tak mi stoja vlasy dupkom. Cítim sa trápne pri ich pozeraní, lebo je jasné, že moja slovná zásoba je značne obmedzená.
+
+Ale je to pre mňa dôkaz toho, že to ide. Keď sa chce, tak sa dá. Najlepší spôsob, ako sa bohove rýchlo naučiť jazyk, je presunúť sa do cieľovek krajiny. Chápem, že toto si môže málokto dovoliť. Preto je tu ďalšia možnosť - nájsť si partnera, ktorý hovorí jazykom, ktorým chceš hovoriť aj ty.
+
+## Netreba si to komplikovať
+
 Jazyky sú jednoduché. Tvrdím to odjakživa a vždy budem.
 
 Rozdiel medzi ľuďmi, ktorí vedia plno jazykov a ktorým to nejde je jednoduchý. 
