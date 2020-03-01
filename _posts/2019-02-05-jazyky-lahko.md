@@ -148,4 +148,20 @@ aj videjká a aj článočky. Zatiaľ všetko po slovensky. Takže ak Ťa zaují
 aký je tu život, tak čekuj, sleduj, lajkuj, komentuj a pokojne mi daj aj
 spätnú vazbu. Lebo bez nej sa nezlepším :)
 
-Nadáááááááááááááááár :)
+## Oprášil som ešte aj srbčinu
+
+<iframe width="480" height="360" src="https://www.youtube.com/embed/ssX85S1e5Ek" frameborder="0"> </iframe>
+
+## Vietnamčina po 3 mesiacoch učenia sa
+
+<iframe width="480" height="360" src="https://www.youtube.com/embed/UaK-Bl9gwtU" frameborder="0"> </iframe>
+
+## Vytrvať...
+
+S týmto bojujem. Lebo ja by som najradšej vedel každý jeden jazyk sveta na úrovni C2, ale potom sa mi akurát stane to, že skáčem ako žobrák po krajších domoch a viem vo veľa jazykoch len zopár fráz. A to mi nestačí. Takže teraz sa učím koncentrovať na jeden jazyk a vycibriť ho najviac ako to len ide.
+
+Momentálne je to čeština. Uvedomujem si, že je to jazyk, ktorý je slovenčine dosť blízky. A ani by som sa ho možno nemusel učiť a hovoriť si v Čechách pekne svojím rodným. Ale cítim, že čeština mi otvára brány. A hlavne, ľahšie zapadnem. Ľahšie si nájdem prácu, akú chcem. A tiež - keď hovorím po česky, tak cítim, že sa stávam iným človekom.
+
+Ako keby som bol viac organizovaný. Darmo, Česko je najzápadnejšia slovanská zem a je to cítiť. Či už v bežných životných situáciách, ale aj v práci a v službách. My, Slováci, sme zase takí viac temperamentní a srdeční. Ale každý máme dačo. A je veľmi ťažké generalizovať národnú mentalitu. No isté odlišnosti tam predsa len sú.
+
+
