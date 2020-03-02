@@ -17,7 +17,7 @@ categories:
 
 V čase písania tohto článku, čo je 17. február 2020 - je nezamestnanosť v Prahe len 1,9 %! Je naozaj takmer nemožné si tu nenájsť prácu. Či už to bude práca, v ktorej sa môžeš aj realizovať a cítiť sa naplnený, to záleží na Tebe. Ja ešte takú stále hľadám.
 
-Zdroj nezamestnanosti: [(https://www.mpsv.cz/mesicni)
+[Zdroj nezamestnanosti:](https://www.mpsv.cz/mesicni)
 
 ## Treba internet využiť naplno
 
@@ -27,17 +27,18 @@ Na Facebooku je fajn rovno poslať životopis, napísať pár riadkov o sebe a p
 
 Prikladám odkazy na Facebook-ové skupiny, kde sa nedá nenájsť brigádka:
 
-https://www.facebook.com/groups/PrahaJobs/
 
-https://www.facebook.com/groups/203900279809525/?ref=br_rs
+[https://www.facebook.com/groups/PrahaJobs/](https://www.facebook.com/groups/PrahaJobs/)
 
-https://www.facebook.com/groups/1522377881416207/
+[https://www.facebook.com/groups/203900279809525/?ref=br_rs](https://www.facebook.com/groups/203900279809525/?ref=br_rs)
+
+[https://www.facebook.com/groups/1522377881416207/](https://www.facebook.com/groups/1522377881416207/)
 
 A potom je kopec ponúk aj na inzertných portáloch:
 
-https://www.fajn-brigady.cz/brigady/praha/
+[https://www.fajn-brigady.cz/brigady/praha/](https://www.fajn-brigady.cz/brigady/praha/)
 
-https://www.nabrigadu.cz/brigady-praha
+[https://www.nabrigadu.cz/brigady-praha](https://www.nabrigadu.cz/brigady-praha)
 
 ## Pýtať sa kamošov
 
