@@ -5,7 +5,7 @@ excerpt: Základy cudzieho jazyka za mesiac? Veľa rozprávaj, počúvaj a neboj
 date: 2019-02-05T02:35:00+00:00
 author: viliam
 layout: post
-img: /img/vils.jpg
+img: vils.jpg
 permalink: /cudzi-jazyk-za-mesiac/
 categories: 
 - jazyky 
