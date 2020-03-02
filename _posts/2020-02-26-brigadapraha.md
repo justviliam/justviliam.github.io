@@ -17,7 +17,7 @@ categories:
 
 V čase písania tohto článku, čo je 17. február 2020 - je nezamestnanosť v Prahe len 1,9 %! Je naozaj takmer nemožné si tu nenájsť prácu. Či už to bude práca, v ktorej sa môžeš aj realizovať a cítiť sa naplnený, to záleží na Tebe. Ja ešte takú stále hľadám.
 
-[Zdroj nezamestnanosti:](https://www.mpsv.cz/mesicni)
+Zdroj nezamestnanosti: [https://www.mpsv.cz/mesicni)](https://www.mpsv.cz/mesicni)
 
 ## Treba internet využiť naplno
 
