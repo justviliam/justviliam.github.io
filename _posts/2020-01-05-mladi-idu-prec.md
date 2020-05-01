@@ -10,8 +10,9 @@ permalink: /potencial-slovenska/
 categories:
   - praca
 ---
-Slovensko je v TOP 30 krajín sveta: [kukaj na to)](https://www.teraz.sk/ekonomika/krajiny-zivotna-uroven-slovensko/303778-clanok.html)
 ![Pohronská Polhora - pohľad zhora](/images/polhora700.jpg){:class="img-responsive"}
+
+Slovensko je v TOP 30 krajín sveta: [kukaj na to)](https://www.teraz.sk/ekonomika/krajiny-zivotna-uroven-slovensko/303778-clanok.html)
 
 Na Slovensku sa máme oveľa lepšie, ako si dokážeme predstaviť.
 
