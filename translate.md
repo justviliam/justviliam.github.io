@@ -2,7 +2,7 @@
 layout: page
 title: Translation
 permalink: /translation/
-published: true
+published: false
 ---
 Hey there!
 
