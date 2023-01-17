@@ -7,7 +7,7 @@
 
 # Site settings
 title: Viliam
-email: viliam@brozman.sk
+email: justviliam@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   mením seba, mením svet
   
@@ -37,14 +37,6 @@ analytics: UA-6810782-25
 
 # Comments
 disqus-shortname: http-vili-am
-
-#social
-facebook: http://facebook.com/viliammmmm/
-
-#facebook like box
-#fb-app-id: 1861898717394681
-#fb-page-url: http://facebook.com/viliammmmm
-#fb-page-title: Viliam
 
 # Sass style
 sass:
