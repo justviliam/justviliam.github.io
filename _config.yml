@@ -51,3 +51,5 @@ og_image_type: image/jpeg
 og_image_width: 400
 og_image_height: 250
 
+ignore_theme_config: true
+
