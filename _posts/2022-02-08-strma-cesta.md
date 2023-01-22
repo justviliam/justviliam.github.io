@@ -2,7 +2,7 @@
 published: false
 title: Závislosť na pojebanom systéme
 excerpt: 'Nie sú v tom žiadne čary, stačí rozhodiť siete a makať'
-date: {}
+date: 2022-02-08T10:00:00+00:00
 author: viliam
 layout: post
 img: strma-cesta.jpg
