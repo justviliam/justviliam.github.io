@@ -1,6 +1,7 @@
 ---
 published: false
 title: Where to buy a cheap bicycle in Nha Trang
+published: false
 excerpt: You can buy a similar bicycle for 350K VND. If you are good at bargaining, maybe even cheaper. I will show you where is the good shop.
 date: 2018-03-10T20:44:00+00:00
 author: viliam
