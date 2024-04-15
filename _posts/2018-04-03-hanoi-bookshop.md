@@ -1,5 +1,6 @@
 ---
 title: Best bookshop in Hanoi
+published: false
 excerpt: You've just found the best bookshop in Hanoi. Don't look any further.
 date: 2018-04-03T17:44:00+00:00
 author: viliam
