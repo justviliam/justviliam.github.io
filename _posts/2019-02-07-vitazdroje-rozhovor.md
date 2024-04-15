@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Juraj sa pôstami vyliečil z alergií a 15 rokov nezjedol tabletku (rozhovor)
 excerpt: Juraj sa pôstami vyliečil z alergií a 15 rokov nezjedol tabletku (rozhovor)
 date: 2019-02-07T10:44:00+00:00
