@@ -1,6 +1,7 @@
 ---
 id: 144
 title: You can have a nice place for 400 EUR in Bangkok
+published: false
 excerpt: You can find a very nice place for 400 EUR. Very close to city center and BTS (this is very important).
 date: 2017-06-01T09:08:23+00:00
 author: viliam
