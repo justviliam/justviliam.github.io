@@ -1,6 +1,7 @@
 ---
 id: 106
 title: 'How much does living in Bangkok cost? Figures inside&#8230;'
+published: false
 excerpt: I would say, that you can live comfortably with around 700 EUR per month. But it really depends on your lifestyle.
 date: 2017-05-30T07:13:50+00:00
 author: viliam
