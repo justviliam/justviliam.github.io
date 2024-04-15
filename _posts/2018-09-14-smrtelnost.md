@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Život netrvá večne
 excerpt: Život netrvá večne. A ak sme nespokojní, mali by sme niečo zmeniť.
 date: 2018-09-14T11:50:00+00:00
