@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Ako si nájsť brigádu v Prahe za pár dní
 excerpt: Nie sú v tom žiadne čary, stačí rozhodiť siete a makať
 date: 2020-02-26T10:00:00+00:00
