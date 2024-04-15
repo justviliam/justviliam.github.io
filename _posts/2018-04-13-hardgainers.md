@@ -1,5 +1,6 @@
 ---
 title: How to Gain Weight - Guide for Skinny Guys
+published: false
 excerpt: Tired of not gaining weight? This guide might be helpful for you. I will share with you, how I gained 5.9 kg in just a month.
 date: 2018-04-13T00:05:00+00:00
 author: viliam
