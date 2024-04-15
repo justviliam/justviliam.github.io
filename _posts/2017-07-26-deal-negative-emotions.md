@@ -1,6 +1,7 @@
 ---
 id: 256
 title: How to deal with negative emotions
+published: false
 excerpt: I can show you the door, but you have to walk through them on your own.
 date: 2017-07-26T13:05:39+00:00
 author: viliam
