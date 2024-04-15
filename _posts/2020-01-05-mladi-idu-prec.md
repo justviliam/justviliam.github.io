@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Prečo na Slovensku trieme biedu?
 excerpt: Pritom máme takú krásnu krajinu, v ktorej vidím obrovský potenciál
 date: 2020-05-01T08:00:00+00:00
