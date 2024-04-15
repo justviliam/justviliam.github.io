@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 title: Ako som zarobil 3000 EUR za mesiac a aj tak som bol NEŠŤASTNÝ
 excerpt: Dlhú dobu som robil niečo, čo som robiť nechcel. Dlhú dobu som si to ospravedlňoval...
 date: 2018-11-23T10:44:00+00:00
