@@ -1,6 +1,7 @@
 ---
 id: 245
 title: '37 hours without sleep. No problem&#8230; :D'
+published: false
 excerpt: Sleep deprivation is one of your biggest enemies. So, please, don't try this at home.
 date: 2017-07-24T03:00:42+00:00
 author: viliam
