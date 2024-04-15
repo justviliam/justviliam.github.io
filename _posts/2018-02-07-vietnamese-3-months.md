@@ -1,6 +1,7 @@
 ---
 id: 393
 title: 'Language challenge: learning Vietnamese in 3 months'
+published: false
 excerpt: I want to be able to have a one minute conversation with a stranger in Vietnamese. Let's see if I can do it.
 date: 2018-02-07T15:08:08+00:00
 author: viliam
